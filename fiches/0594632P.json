@@ -1,0 +1,138 @@
+{
+  "uai": "0594632P",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE RAYMOND DEVOS",
+  "adresse": "40 rue Jean Jaurès",
+  "code_postal": "59510",
+  "commune": "HEM",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.6683",
+  "latitude": 50.66,
+  "longitude": 3.19,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 264,
+    "score": 9.47,
+    "nb_classes": 395,
+    "rang_2023": 300,
+    "evolution": 36,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 82.0,
+    "va": 2.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 82.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 9.6,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 123
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 81.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 10.3,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 115
+  },
+  "ips": {
+    "valeur": 91.1,
+    "ecart_type": 35.7,
+    "percentile": 43,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 91.1,
+    "moyenne_academie": 96.9,
+    "ecart": -5.8,
+    "percentile": 43,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "264e sur 395",
+    "evolution_texte": "en hausse de 36 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +2 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 264e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 36 places et se classe 264e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +2 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0594632P",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 330,
+      "score": 8.94,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 101,
+      "taux_reu": 78.0,
+      "va_reu": -2.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594632P",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 300,
+      "score": 10.26,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 115,
+      "taux_reu": 81.0,
+      "va_reu": -3.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594632P",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 264,
+      "score": 9.47,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 123,
+      "taux_reu": 82.0,
+      "va_reu": 2.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

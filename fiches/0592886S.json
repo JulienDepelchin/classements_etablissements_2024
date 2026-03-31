@@ -1,0 +1,138 @@
+{
+  "uai": "0592886S",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE PASCAL",
+  "adresse": "2 rue de la Sagesse",
+  "code_postal": "59100",
+  "commune": "ROUBAIX",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13542",
+  "latitude": 50.69,
+  "longitude": 3.18,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 271,
+    "score": 9.21,
+    "nb_classes": 395,
+    "rang_2023": 383,
+    "evolution": 112,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 88.0,
+    "va": 11.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 88.0,
+    "va_reu": 11.0,
+    "note_ecrit_brute": 9.5,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 69.0,
+    "nb_candidats": 88
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 84.0,
+    "va_reu": -2.0,
+    "note_ecrit_brute": 9.8,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 63.0,
+    "nb_candidats": 87
+  },
+  "ips": {
+    "valeur": 78.4,
+    "ecart_type": 24.7,
+    "percentile": 14,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 78.4,
+    "moyenne_academie": 96.9,
+    "ecart": -18.5,
+    "percentile": 14,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "271e sur 395",
+    "evolution_texte": "en forte hausse de 112 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +11 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 271e sur 395 — en forte hausse de 112 places.",
+    "phrase_longue": "En 2024, ce collège gagne 112 places et se classe 271e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +11 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0592886S",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 216,
+      "score": 11.16,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 101,
+      "taux_reu": 91.0,
+      "va_reu": 7.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 73.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592886S",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 383,
+      "score": 7.75,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 87,
+      "taux_reu": 84.0,
+      "va_reu": -2.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 63.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592886S",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 271,
+      "score": 9.21,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 88,
+      "taux_reu": 88.0,
+      "va_reu": 11.0,
+      "note_ecrit": 9.5,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 69.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

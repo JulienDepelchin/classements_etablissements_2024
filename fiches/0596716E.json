@@ -1,0 +1,138 @@
+{
+  "uai": "0596716E",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ARTHUR VAN HECKE",
+  "adresse": "2 rue Boileau",
+  "code_postal": "59140",
+  "commune": "DUNKERQUE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15624",
+  "latitude": 51.04,
+  "longitude": 2.39,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 394,
+    "score": 3.68,
+    "nb_classes": 395,
+    "rang_2023": 384,
+    "evolution": -10,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 66.0,
+    "va": -15.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 66.0,
+    "va_reu": -15.0,
+    "note_ecrit_brute": 8.7,
+    "va_note_ecrit": -1.1,
+    "taux_acces_6e_3e": 77.0,
+    "nb_candidats": 85
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 79.0,
+    "va_reu": -6.0,
+    "note_ecrit_brute": 9.6,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 78.0,
+    "nb_candidats": 68
+  },
+  "ips": {
+    "valeur": 85.0,
+    "ecart_type": 32.4,
+    "percentile": 28,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 85.0,
+    "moyenne_academie": 96.9,
+    "ecart": -11.9,
+    "percentile": 28,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "394e sur 395",
+    "evolution_texte": "en légère baisse de 10 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −15 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 394e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 394e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −15 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0596716E",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 292,
+      "score": 10.03,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 75,
+      "taux_reu": 91.0,
+      "va_reu": 7.0,
+      "note_ecrit": 9.0,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 76.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0596716E",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 384,
+      "score": 7.73,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 68,
+      "taux_reu": 79.0,
+      "va_reu": -6.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 78.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0596716E",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 394,
+      "score": 3.68,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 85,
+      "taux_reu": 66.0,
+      "va_reu": -15.0,
+      "note_ecrit": 8.7,
+      "va_note_ecrit": -1.1,
+      "taux_acces": 77.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

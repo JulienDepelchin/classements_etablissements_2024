@@ -1,0 +1,138 @@
+{
+  "uai": "0594308M",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE DENIS SAURAT",
+  "adresse": "20 rue Robert Fontesse",
+  "code_postal": "59132",
+  "commune": "TRELON",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12700",
+  "latitude": 50.06,
+  "longitude": 4.11,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 261,
+    "score": 9.51,
+    "nb_classes": 395,
+    "rang_2023": 377,
+    "evolution": 116,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 81.0,
+    "va": 1.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 81.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 9.5,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 53
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 77.0,
+    "va_reu": -7.0,
+    "note_ecrit_brute": 8.7,
+    "va_note_ecrit": -0.7,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 71
+  },
+  "ips": {
+    "valeur": 84.5,
+    "ecart_type": 26.4,
+    "percentile": 26,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 84.5,
+    "moyenne_academie": 96.9,
+    "ecart": -12.4,
+    "percentile": 26,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "261e sur 395",
+    "evolution_texte": "en forte hausse de 116 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 261e sur 395 — en forte hausse de 116 places.",
+    "phrase_longue": "En 2024, ce collège gagne 116 places et se classe 261e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594308M",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 365,
+      "score": 7.96,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 70,
+      "taux_reu": 73.0,
+      "va_reu": -10.0,
+      "note_ecrit": 9.0,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 80.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594308M",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 377,
+      "score": 7.9,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 71,
+      "taux_reu": 77.0,
+      "va_reu": -7.0,
+      "note_ecrit": 8.7,
+      "va_note_ecrit": -0.7,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594308M",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 261,
+      "score": 9.51,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 53,
+      "taux_reu": 81.0,
+      "va_reu": 1.0,
+      "note_ecrit": 9.5,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

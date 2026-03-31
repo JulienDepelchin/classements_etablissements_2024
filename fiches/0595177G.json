@@ -1,0 +1,125 @@
+{
+  "uai": "0595177G",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE CAMILLE CLAUDEL",
+  "adresse": "1 rue Paul Lafargue",
+  "code_postal": "59613",
+  "commune": "FOURMIES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11508",
+  "latitude": 50.01,
+  "longitude": 4.04,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 80.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 9.1,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 83.0,
+    "nb_candidats": 45
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 55.0,
+    "va_reu": -24.0,
+    "note_ecrit_brute": 7.4,
+    "va_note_ecrit": -1.6,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 44
+  },
+  "ips": {
+    "valeur": 81.6,
+    "ecart_type": 28.4,
+    "percentile": 19,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 81.6,
+    "moyenne_academie": 96.9,
+    "ecart": -15.3,
+    "percentile": 19,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0595177G",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 48,
+      "taux_reu": 79.0,
+      "va_reu": -4.0,
+      "note_ecrit": 8.7,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595177G",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 44,
+      "taux_reu": 55.0,
+      "va_reu": -24.0,
+      "note_ecrit": 7.4,
+      "va_note_ecrit": -1.6,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595177G",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 45,
+      "taux_reu": 80.0,
+      "va_reu": 2.0,
+      "note_ecrit": 9.1,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

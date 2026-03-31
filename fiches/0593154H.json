@@ -1,0 +1,138 @@
+{
+  "uai": "0593154H",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINTE MARIE",
+  "adresse": "56 avenue Georges Clemenceau",
+  "code_postal": "59300",
+  "commune": "VALENCIENNES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11835",
+  "latitude": 50.36,
+  "longitude": 3.52,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 218,
+    "score": 10.23,
+    "nb_classes": 395,
+    "rang_2023": 192,
+    "evolution": -26,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 90.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 11.3,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 69.0,
+    "nb_candidats": 78
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.3,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 73.0,
+    "nb_candidats": 99
+  },
+  "ips": {
+    "valeur": 112.3,
+    "ecart_type": 33.6,
+    "percentile": 81,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 112.3,
+    "moyenne_academie": 96.9,
+    "ecart": 15.4,
+    "percentile": 81,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "résultats en retrait",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "218e sur 395",
+    "evolution_texte": "en recul de 26 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 218e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 26 places et recule à la 218e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593154H",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 282,
+      "score": 10.21,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 83,
+      "taux_reu": 96.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.4,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 76.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593154H",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 192,
+      "score": 11.94,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 99,
+      "taux_reu": 100.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.3,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 73.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593154H",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 218,
+      "score": 10.23,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 90.0,
+      "va_reu": 4.0,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 69.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

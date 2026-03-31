@@ -1,0 +1,138 @@
+{
+  "uai": "0622090K",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ALBERT DEBEYRE",
+  "adresse": "Rue Jean Zay",
+  "code_postal": "62660",
+  "commune": "BEUVRY",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.7706",
+  "latitude": 50.52,
+  "longitude": 2.67,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 67,
+    "score": 13.19,
+    "nb_classes": 395,
+    "rang_2023": 182,
+    "evolution": 115,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 92.0,
+    "va": 8.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 92.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 11.1,
+    "va_note_ecrit": 1.2,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 154
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 89.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": 0.4,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 170
+  },
+  "ips": {
+    "valeur": 93.5,
+    "ecart_type": 33.6,
+    "percentile": 49,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 93.5,
+    "moyenne_academie": 96.9,
+    "ecart": -3.4,
+    "percentile": 49,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "67e sur 395",
+    "evolution_texte": "en forte hausse de 115 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 67e sur 395 — en forte hausse de 115 places.",
+    "phrase_longue": "En 2024, ce collège gagne 115 places et se classe 67e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0622090K",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 273,
+      "score": 10.32,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 159,
+      "taux_reu": 84.0,
+      "va_reu": -4.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622090K",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 182,
+      "score": 12.05,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 170,
+      "taux_reu": 89.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622090K",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 67,
+      "score": 13.19,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 154,
+      "taux_reu": 92.0,
+      "va_reu": 8.0,
+      "note_ecrit": 11.1,
+      "va_note_ecrit": 1.2,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

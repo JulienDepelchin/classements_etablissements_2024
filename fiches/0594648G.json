@@ -1,0 +1,138 @@
+{
+  "uai": "0594648G",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ANTOINE DE SAINT EXUPERY",
+  "adresse": "1 rue Jean Stablinski",
+  "code_postal": "59730",
+  "commune": "SOLESMES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3066",
+  "latitude": 50.19,
+  "longitude": 3.5,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 109,
+    "score": 12.33,
+    "nb_classes": 395,
+    "rang_2023": 122,
+    "evolution": 13,
+    "indicateur_cle_variation": "- note_ecrit_brute"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 90.0,
+    "va": 6.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 10.7,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 139
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 11.5,
+    "va_note_ecrit": 0.4,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 139
+  },
+  "ips": {
+    "valeur": 95.6,
+    "ecart_type": 33.6,
+    "percentile": 53,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 95.6,
+    "moyenne_academie": 96.9,
+    "ecart": -1.3,
+    "percentile": 54,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "109e sur 395",
+    "evolution_texte": "en légère progression de 13 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 109e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 109e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0594648G",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 191,
+      "score": 11.46,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 150,
+      "taux_reu": 86.0,
+      "va_reu": 0.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594648G",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 122,
+      "score": 12.77,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 139,
+      "taux_reu": 96.0,
+      "va_reu": 4.0,
+      "note_ecrit": 11.5,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594648G",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 109,
+      "score": 12.33,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 139,
+      "taux_reu": 90.0,
+      "va_reu": 6.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

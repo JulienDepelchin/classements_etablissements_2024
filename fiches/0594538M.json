@@ -1,0 +1,125 @@
+{
+  "uai": "0594538M",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN ROSTAND",
+  "adresse": "3 rue du Moulin à Vent",
+  "code_postal": "59177",
+  "commune": "SAINS DU NORD",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14673",
+  "latitude": 50.1,
+  "longitude": 4.01,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 61.0,
+    "va_reu": -22.0,
+    "note_ecrit_brute": 8.8,
+    "va_note_ecrit": -0.7,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 44
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 80.0,
+    "va_reu": -5.0,
+    "note_ecrit_brute": 10.0,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 84.0,
+    "nb_candidats": 46
+  },
+  "ips": {
+    "valeur": 86.7,
+    "ecart_type": 28.1,
+    "percentile": 32,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 86.7,
+    "moyenne_academie": 96.9,
+    "ecart": -10.2,
+    "percentile": 32,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "défavorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0594538M",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 49,
+      "taux_reu": 90.0,
+      "va_reu": 2.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594538M",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 46,
+      "taux_reu": 80.0,
+      "va_reu": -5.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594538M",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 44,
+      "taux_reu": 61.0,
+      "va_reu": -22.0,
+      "note_ecrit": 8.8,
+      "va_note_ecrit": -0.7,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

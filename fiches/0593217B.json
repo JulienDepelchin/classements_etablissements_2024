@@ -1,0 +1,125 @@
+{
+  "uai": "0593217B",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE CHARLES PEGUY",
+  "adresse": "15 place du Théâtre",
+  "code_postal": "59200",
+  "commune": "TOURCOING",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4695",
+  "latitude": 50.72,
+  "longitude": 3.15,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": 70,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": null,
+    "note_ecrit_brute": 11.8,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 262
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 99.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 12.2,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 263
+  },
+  "ips": {
+    "valeur": 100.1,
+    "ecart_type": 33.4,
+    "percentile": 62,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 100.1,
+    "moyenne_academie": 96.9,
+    "ecart": 3.2,
+    "percentile": 62,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0593217B",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 228,
+      "score": 11.08,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 282,
+      "taux_reu": 96.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593217B",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 70,
+      "score": 13.6,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 263,
+      "taux_reu": 99.0,
+      "va_reu": 6.0,
+      "note_ecrit": 12.2,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593217B",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Donnees manquantes",
+      "nb_candidats": 262,
+      "taux_reu": 97.0,
+      "va_reu": null,
+      "note_ecrit": 11.8,
+      "va_note_ecrit": null,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0593672W",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE DE L'OSTREVANT",
+  "adresse": "44 rue Emmanuel Chabrier",
+  "code_postal": "59111",
+  "commune": "BOUCHAIN",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4300",
+  "latitude": 50.28,
+  "longitude": 3.31,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 309,
+    "score": 8.51,
+    "nb_classes": 395,
+    "rang_2023": 275,
+    "evolution": -34,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 80.0,
+    "va": -6.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 80.0,
+    "va_reu": -6.0,
+    "note_ecrit_brute": 9.8,
+    "va_note_ecrit": -0.3,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 185
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 85.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 10.4,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 176
+  },
+  "ips": {
+    "valeur": 96.7,
+    "ecart_type": 33.6,
+    "percentile": 56,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 96.7,
+    "moyenne_academie": 96.9,
+    "ecart": -0.2,
+    "percentile": 57,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "309e sur 395",
+    "evolution_texte": "en recul de 34 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −6 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 309e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 34 places et recule à la 309e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −6 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0593672W",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 317,
+      "score": 9.37,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 164,
+      "taux_reu": 85.0,
+      "va_reu": -3.0,
+      "note_ecrit": 8.9,
+      "va_note_ecrit": -0.6,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593672W",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 275,
+      "score": 10.64,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 176,
+      "taux_reu": 85.0,
+      "va_reu": -3.0,
+      "note_ecrit": 10.4,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593672W",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 309,
+      "score": 8.51,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 185,
+      "taux_reu": 80.0,
+      "va_reu": -6.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": -0.3,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

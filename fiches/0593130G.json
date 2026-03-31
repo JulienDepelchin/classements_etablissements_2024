@@ -1,0 +1,107 @@
+{
+  "uai": "0593130G",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT JOSEPH",
+  "adresse": "22 bis rue Saint-Winoc",
+  "code_postal": "59122",
+  "commune": "HONDSCHOOTE",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4902",
+  "latitude": 50.98,
+  "longitude": 2.59,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 91.0,
+    "va_reu": null,
+    "note_ecrit_brute": 10.8,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 72.0,
+    "nb_candidats": 22
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 13.4,
+    "va_note_ecrit": 1.7,
+    "taux_acces_6e_3e": 73.0,
+    "nb_candidats": 46
+  },
+  "ips": {
+    "valeur": 94.7,
+    "ecart_type": 25.5,
+    "percentile": 51,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 94.7,
+    "moyenne_academie": 96.9,
+    "ecart": -2.2,
+    "percentile": 51,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0593130G",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 46,
+      "taux_reu": 100.0,
+      "va_reu": 5.0,
+      "note_ecrit": 13.4,
+      "va_note_ecrit": 1.7,
+      "taux_acces": 73.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593130G",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 22,
+      "taux_reu": 91.0,
+      "va_reu": null,
+      "note_ecrit": 10.8,
+      "va_note_ecrit": null,
+      "taux_acces": 72.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

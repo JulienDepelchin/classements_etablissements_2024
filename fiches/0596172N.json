@@ -1,0 +1,138 @@
+{
+  "uai": "0596172N",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE HENRI MATISSE",
+  "adresse": "18 route de Hautevalle",
+  "code_postal": "59497",
+  "commune": "LINSELLES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4017",
+  "latitude": 50.74,
+  "longitude": 3.09,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 255,
+    "score": 9.59,
+    "nb_classes": 395,
+    "rang_2023": 154,
+    "evolution": -101,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 85.0,
+    "va": -1.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 85.0,
+    "va_reu": -1.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 78
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 12.1,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 85
+  },
+  "ips": {
+    "valeur": 92.8,
+    "ecart_type": 29.1,
+    "percentile": 47,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 92.8,
+    "moyenne_academie": 96.9,
+    "ecart": -4.1,
+    "percentile": 47,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "255e sur 395",
+    "evolution_texte": "en forte baisse de 101 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −1 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 255e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 101 places et se retrouve à la 255e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −1 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0596172N",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 151,
+      "score": 11.95,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 95.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0596172N",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 154,
+      "score": 12.35,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 85,
+      "taux_reu": 93.0,
+      "va_reu": 2.0,
+      "note_ecrit": 12.1,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0596172N",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 255,
+      "score": 9.59,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 85.0,
+      "va_reu": -1.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

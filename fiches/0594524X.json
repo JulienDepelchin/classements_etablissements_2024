@@ -1,0 +1,138 @@
+{
+  "uai": "0594524X",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN MOULIN",
+  "adresse": "6 rue Roland Garros",
+  "code_postal": "59635",
+  "commune": "WATTIGNIES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.7611",
+  "latitude": 50.59,
+  "longitude": 3.05,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 306,
+    "score": 8.57,
+    "nb_classes": 395,
+    "rang_2023": 389,
+    "evolution": 83,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 76.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 76.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 8.9,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 63
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 73.0,
+    "va_reu": -6.0,
+    "note_ecrit_brute": 8.1,
+    "va_note_ecrit": -0.6,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 52
+  },
+  "ips": {
+    "valeur": 79.2,
+    "ecart_type": 27.6,
+    "percentile": 15,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 79.2,
+    "moyenne_academie": 96.9,
+    "ecart": -17.7,
+    "percentile": 15,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "306e sur 395",
+    "evolution_texte": "en forte hausse de 83 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 306e sur 395 — en forte hausse de 83 places.",
+    "phrase_longue": "En 2024, ce collège gagne 83 places et se classe 306e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594524X",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 374,
+      "score": 7.68,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 51,
+      "taux_reu": 75.0,
+      "va_reu": -8.0,
+      "note_ecrit": 8.0,
+      "va_note_ecrit": -0.6,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594524X",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 389,
+      "score": 7.32,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 52,
+      "taux_reu": 73.0,
+      "va_reu": -6.0,
+      "note_ecrit": 8.1,
+      "va_note_ecrit": -0.6,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594524X",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 306,
+      "score": 8.57,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 63,
+      "taux_reu": 76.0,
+      "va_reu": 4.0,
+      "note_ecrit": 8.9,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

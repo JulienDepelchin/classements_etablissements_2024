@@ -1,0 +1,138 @@
+{
+  "uai": "0592962Z",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE JEAN PAUL II",
+  "adresse": "5 rue du Couvent",
+  "code_postal": "59722",
+  "commune": "DENAIN",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.867",
+  "latitude": 50.32,
+  "longitude": 3.38,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 296,
+    "score": 8.79,
+    "nb_classes": 395,
+    "rang_2023": 315,
+    "evolution": 19,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 81.0,
+    "va": -2.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 81.0,
+    "va_reu": -2.0,
+    "note_ecrit_brute": 10.1,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 77.0,
+    "nb_candidats": 79
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 89.0,
+    "va_reu": 0.0,
+    "note_ecrit_brute": 9.9,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 85.0,
+    "nb_candidats": 63
+  },
+  "ips": {
+    "valeur": 90.8,
+    "ecart_type": 30.2,
+    "percentile": 42,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 90.8,
+    "moyenne_academie": 96.9,
+    "ecart": -6.1,
+    "percentile": 42,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "296e sur 395",
+    "evolution_texte": "en hausse de 19 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −2 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 296e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 19 places et se classe 296e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −2 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0592962Z",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 156,
+      "score": 11.9,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 57,
+      "taux_reu": 100.0,
+      "va_reu": 13.0,
+      "note_ecrit": 9.2,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592962Z",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 315,
+      "score": 9.9,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 63,
+      "taux_reu": 89.0,
+      "va_reu": 0.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592962Z",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 296,
+      "score": 8.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 79,
+      "taux_reu": 81.0,
+      "va_reu": -2.0,
+      "note_ecrit": 10.1,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 77.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

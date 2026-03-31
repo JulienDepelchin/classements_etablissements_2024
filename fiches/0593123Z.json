@@ -1,0 +1,138 @@
+{
+  "uai": "0593123Z",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT JOSEPH",
+  "adresse": "31 rue du Collège",
+  "code_postal": "59820",
+  "commune": "GRAVELINES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12977",
+  "latitude": 50.99,
+  "longitude": 2.13,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 54,
+    "score": 13.48,
+    "nb_classes": 395,
+    "rang_2023": 171,
+    "evolution": 117,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 97.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.7,
+    "va_note_ecrit": 1.5,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 69
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.3,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 76.0,
+    "nb_candidats": 59
+  },
+  "ips": {
+    "valeur": 107.6,
+    "ecart_type": 30.6,
+    "percentile": 75,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 107.6,
+    "moyenne_academie": 96.9,
+    "ecart": 10.7,
+    "percentile": 75,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "54e sur 395",
+    "evolution_texte": "en forte hausse de 117 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 54e sur 395 — en forte hausse de 117 places.",
+    "phrase_longue": "En 2024, ce collège gagne 117 places et se classe 54e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593123Z",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 59,
+      "score": 13.37,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 86,
+      "taux_reu": 99.0,
+      "va_reu": 6.0,
+      "note_ecrit": 11.4,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593123Z",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 171,
+      "score": 12.21,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 59,
+      "taux_reu": 100.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.3,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 76.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593123Z",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 54,
+      "score": 13.48,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 69,
+      "taux_reu": 97.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.7,
+      "va_note_ecrit": 1.5,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0590228C",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE FRANCOIS VILLON",
+  "adresse": "Rue Martin Luther King",
+  "code_postal": "59127",
+  "commune": "WALINCOURT SELVIGNY",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.6667",
+  "latitude": 50.07,
+  "longitude": 3.34,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 364,
+    "score": 7.2,
+    "nb_classes": 395,
+    "rang_2023": 348,
+    "evolution": -16,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 69.0,
+    "va": -9.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 69.0,
+    "va_reu": -9.0,
+    "note_ecrit_brute": 8.8,
+    "va_note_ecrit": -0.3,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 90
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 77.0,
+    "va_reu": -7.0,
+    "note_ecrit_brute": 9.8,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 82
+  },
+  "ips": {
+    "valeur": 93.4,
+    "ecart_type": 32.6,
+    "percentile": 49,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 93.4,
+    "moyenne_academie": 96.9,
+    "ecart": -3.5,
+    "percentile": 49,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "364e sur 395",
+    "evolution_texte": "en recul de 16 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −9 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 364e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 16 places et recule à la 364e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −9 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0590228C",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 332,
+      "score": 8.93,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 86,
+      "taux_reu": 76.0,
+      "va_reu": -7.0,
+      "note_ecrit": 8.6,
+      "va_note_ecrit": -0.3,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590228C",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 348,
+      "score": 9.08,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 82,
+      "taux_reu": 77.0,
+      "va_reu": -7.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590228C",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 364,
+      "score": 7.2,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 90,
+      "taux_reu": 69.0,
+      "va_reu": -9.0,
+      "note_ecrit": 8.8,
+      "va_note_ecrit": -0.3,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

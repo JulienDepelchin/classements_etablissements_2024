@@ -1,0 +1,125 @@
+{
+  "uai": "0622137L",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SACRE COEUR",
+  "adresse": "6 rue Robert Lemoine",
+  "code_postal": "62270",
+  "commune": "FREVENT",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.9916",
+  "latitude": 50.28,
+  "longitude": 2.29,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 13.0,
+    "note_ecrit_brute": 13.4,
+    "va_note_ecrit": 3.2,
+    "taux_acces_6e_3e": 86.0,
+    "nb_candidats": 49
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": null,
+    "note_ecrit_brute": 14.4,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 78.0,
+    "nb_candidats": 40
+  },
+  "ips": {
+    "valeur": 105.5,
+    "ecart_type": 29.9,
+    "percentile": 72,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 105.5,
+    "moyenne_academie": 96.9,
+    "ecart": 8.6,
+    "percentile": 72,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0622137L",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 39,
+      "taux_reu": 97.0,
+      "va_reu": 12.0,
+      "note_ecrit": 12.4,
+      "va_note_ecrit": 3.3,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622137L",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 40,
+      "taux_reu": 100.0,
+      "va_reu": null,
+      "note_ecrit": 14.4,
+      "va_note_ecrit": null,
+      "taux_acces": 78.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622137L",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 49,
+      "taux_reu": 98.0,
+      "va_reu": 13.0,
+      "note_ecrit": 13.4,
+      "va_note_ecrit": 3.2,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0622082B",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE MARIE CURIE",
+  "adresse": "62 rue de Saint-Quentin",
+  "code_postal": "62000",
+  "commune": "ARRAS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.8663",
+  "latitude": 50.28,
+  "longitude": 2.78,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 23,
+    "score": 14.37,
+    "nb_classes": 395,
+    "rang_2023": 141,
+    "evolution": 118,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 97.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 13.4,
+    "va_note_ecrit": 1.5,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 79
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 11.7,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 74
+  },
+  "ips": {
+    "valeur": 98.6,
+    "ecart_type": 37.7,
+    "percentile": 60,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 98.6,
+    "moyenne_academie": 96.9,
+    "ecart": 1.7,
+    "percentile": 60,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "23e sur 395",
+    "evolution_texte": "en forte hausse de 118 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 23e sur 395 — en forte hausse de 118 places.",
+    "phrase_longue": "En 2024, ce collège gagne 118 places et se classe 23e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622082B",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 161,
+      "score": 11.78,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 70,
+      "taux_reu": 97.0,
+      "va_reu": 6.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622082B",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 141,
+      "score": 12.53,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 74,
+      "taux_reu": 97.0,
+      "va_reu": 4.0,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622082B",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 23,
+      "score": 14.37,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 79,
+      "taux_reu": 97.0,
+      "va_reu": 5.0,
+      "note_ecrit": 13.4,
+      "va_note_ecrit": 1.5,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

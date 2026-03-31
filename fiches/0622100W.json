@@ -1,0 +1,138 @@
+{
+  "uai": "0622100W",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINTE MARIE",
+  "adresse": "Place Saint-Pierre",
+  "code_postal": "62120",
+  "commune": "AIRE SUR LA LYS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.7708",
+  "latitude": 50.64,
+  "longitude": 2.4,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 8,
+    "score": 15.24,
+    "nb_classes": 395,
+    "rang_2023": 15,
+    "evolution": 7,
+    "indicateur_cle_variation": "+ taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 97.0,
+    "va": 3.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 13.7,
+    "va_note_ecrit": 1.8,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 182
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 99.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 14.0,
+    "va_note_ecrit": 1.5,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 225
+  },
+  "ips": {
+    "valeur": 117.2,
+    "ecart_type": 31.2,
+    "percentile": 86,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 117.2,
+    "moyenne_academie": 96.9,
+    "ecart": 20.3,
+    "percentile": 86,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "8e sur 395",
+    "evolution_texte": "en légère progression de 7 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "Ce collège confirme sa place dans le peloton de tête : 8e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 8e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622100W",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 6,
+      "score": 15.93,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 218,
+      "taux_reu": 100.0,
+      "va_reu": 4.0,
+      "note_ecrit": 13.6,
+      "va_note_ecrit": 1.7,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622100W",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 15,
+      "score": 14.83,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 225,
+      "taux_reu": 99.0,
+      "va_reu": 3.0,
+      "note_ecrit": 14.0,
+      "va_note_ecrit": 1.5,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622100W",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 8,
+      "score": 15.24,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 182,
+      "taux_reu": 97.0,
+      "va_reu": 3.0,
+      "note_ecrit": 13.7,
+      "va_note_ecrit": 1.8,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0593168Y",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE INTERNATIONAL CARNOT",
+  "adresse": "43 boulevard Carnot",
+  "code_postal": "59002",
+  "commune": "LILLE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4503",
+  "latitude": 50.64,
+  "longitude": 3.07,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 142,
+    "score": 11.65,
+    "nb_classes": 395,
+    "rang_2023": 94,
+    "evolution": -48,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 93.0,
+    "va": -1.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 93.0,
+    "va_reu": -1.0,
+    "note_ecrit_brute": 13.0,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 176
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": -1.0,
+    "note_ecrit_brute": 13.7,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 166
+  },
+  "ips": {
+    "valeur": 125.9,
+    "ecart_type": 44.7,
+    "percentile": 93,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 125.9,
+    "moyenne_academie": 96.9,
+    "ecart": 29.0,
+    "percentile": 93,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "142e sur 395",
+    "evolution_texte": "en forte baisse de 48 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −1 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 142e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 48 places et se retrouve à la 142e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −1 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593168Y",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 58,
+      "score": 13.38,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 181,
+      "taux_reu": 94.0,
+      "va_reu": -1.0,
+      "note_ecrit": 13.2,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593168Y",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 94,
+      "score": 13.11,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 166,
+      "taux_reu": 95.0,
+      "va_reu": -1.0,
+      "note_ecrit": 13.7,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593168Y",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 142,
+      "score": 11.65,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 176,
+      "taux_reu": 93.0,
+      "va_reu": -1.0,
+      "note_ecrit": 13.0,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

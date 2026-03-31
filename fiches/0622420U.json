@@ -1,0 +1,138 @@
+{
+  "uai": "0622420U",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PAUL LANGEVIN",
+  "adresse": "2 rue Paul Éluard",
+  "code_postal": "62210",
+  "commune": "AVION",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5659",
+  "latitude": 50.4,
+  "longitude": 2.84,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 129,
+    "score": 11.88,
+    "nb_classes": 395,
+    "rang_2023": 95,
+    "evolution": -34,
+    "indicateur_cle_variation": "- taux_reu_brut"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 77.0,
+    "va": 6.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 77.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 9.7,
+    "va_note_ecrit": 1.4,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 91
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 13.0,
+    "note_ecrit_brute": 10.0,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 96
+  },
+  "ips": {
+    "valeur": 77.1,
+    "ecart_type": 25.9,
+    "percentile": 11,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q1"
+  },
+  "ips_academie": {
+    "valeur": 77.1,
+    "moyenne_academie": 96.9,
+    "ecart": -19.8,
+    "percentile": 11,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "129e sur 395",
+    "evolution_texte": "en recul de 34 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 129e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 34 places et recule à la 129e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622420U",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 220,
+      "score": 11.14,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 99,
+      "taux_reu": 88.0,
+      "va_reu": 5.0,
+      "note_ecrit": 9.0,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622420U",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 95,
+      "score": 13.09,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 96,
+      "taux_reu": 94.0,
+      "va_reu": 13.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622420U",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 129,
+      "score": 11.88,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 91,
+      "taux_reu": 77.0,
+      "va_reu": 6.0,
+      "note_ecrit": 9.7,
+      "va_note_ecrit": 1.4,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

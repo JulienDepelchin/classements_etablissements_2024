@@ -1,0 +1,138 @@
+{
+  "uai": "0594293W",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ALBERT ROUSSEL",
+  "adresse": "87 rue de Guisnes",
+  "code_postal": "59203",
+  "commune": "TOURCOING",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1791",
+  "latitude": 50.72,
+  "longitude": 3.17,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 390,
+    "score": 4.52,
+    "nb_classes": 395,
+    "rang_2023": 371,
+    "evolution": -19,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 62.0,
+    "va": -4.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 62.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 7.2,
+    "va_note_ecrit": -0.7,
+    "taux_acces_6e_3e": 78.0,
+    "nb_candidats": 136
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 80.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 8.2,
+    "va_note_ecrit": -0.5,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 133
+  },
+  "ips": {
+    "valeur": 72.1,
+    "ecart_type": 22.9,
+    "percentile": 5,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 72.1,
+    "moyenne_academie": 96.9,
+    "ecart": -24.8,
+    "percentile": 5,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "390e sur 395",
+    "evolution_texte": "en recul de 19 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 390e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 19 places et recule à la 390e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594293W",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 311,
+      "score": 9.46,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 132,
+      "taux_reu": 81.0,
+      "va_reu": 5.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 80.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594293W",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 371,
+      "score": 8.05,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 133,
+      "taux_reu": 80.0,
+      "va_reu": 4.0,
+      "note_ecrit": 8.2,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594293W",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 390,
+      "score": 4.52,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 136,
+      "taux_reu": 62.0,
+      "va_reu": -4.0,
+      "note_ecrit": 7.2,
+      "va_note_ecrit": -0.7,
+      "taux_acces": 78.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

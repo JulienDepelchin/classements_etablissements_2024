@@ -1,0 +1,138 @@
+{
+  "uai": "0623112W",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE MARGUERITE BERGER",
+  "adresse": "Rue du Châtelet",
+  "code_postal": "62760",
+  "commune": "PAS EN ARTOIS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.9203",
+  "latitude": 50.16,
+  "longitude": 2.49,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 134,
+    "score": 11.79,
+    "nb_classes": 395,
+    "rang_2023": 167,
+    "evolution": 33,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 88.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 88.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 10.6,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 85
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 10.7,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 98.0,
+    "nb_candidats": 72
+  },
+  "ips": {
+    "valeur": 92.9,
+    "ecart_type": 27.5,
+    "percentile": 47,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 92.9,
+    "moyenne_academie": 96.9,
+    "ecart": -4.0,
+    "percentile": 47,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "134e sur 395",
+    "evolution_texte": "en hausse de 33 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 134e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 33 places et se classe 134e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0623112W",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 92,
+      "score": 12.81,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 87,
+      "taux_reu": 92.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623112W",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 167,
+      "score": 12.23,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 72,
+      "taux_reu": 96.0,
+      "va_reu": 4.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623112W",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 134,
+      "score": 11.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 85,
+      "taux_reu": 88.0,
+      "va_reu": 4.0,
+      "note_ecrit": 10.6,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

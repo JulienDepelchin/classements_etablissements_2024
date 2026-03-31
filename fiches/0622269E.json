@@ -1,0 +1,138 @@
+{
+  "uai": "0622269E",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ANATOLE FRANCE",
+  "adresse": "54 rue Pasteur",
+  "code_postal": "62290",
+  "commune": "NOEUX LES MINES",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12972",
+  "latitude": 50.47,
+  "longitude": 2.66,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 350,
+    "score": 7.54,
+    "nb_classes": 395,
+    "rang_2023": 329,
+    "evolution": -21,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 71.0,
+    "va": -4.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 71.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 8.3,
+    "va_note_ecrit": -0.5,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 133
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 79.0,
+    "va_reu": -5.0,
+    "note_ecrit_brute": 9.8,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 126
+  },
+  "ips": {
+    "valeur": 84.7,
+    "ecart_type": 29.2,
+    "percentile": 27,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 84.7,
+    "moyenne_academie": 96.9,
+    "ecart": -12.2,
+    "percentile": 27,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "350e sur 395",
+    "evolution_texte": "en recul de 21 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 350e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 21 places et recule à la 350e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622269E",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 257,
+      "score": 10.58,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 154,
+      "taux_reu": 88.0,
+      "va_reu": 3.0,
+      "note_ecrit": 8.6,
+      "va_note_ecrit": -0.3,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622269E",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 329,
+      "score": 9.6,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 126,
+      "taux_reu": 79.0,
+      "va_reu": -5.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622269E",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 350,
+      "score": 7.54,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 133,
+      "taux_reu": 71.0,
+      "va_reu": -4.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

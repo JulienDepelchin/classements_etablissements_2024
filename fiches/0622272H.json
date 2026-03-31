@@ -1,0 +1,138 @@
+{
+  "uai": "0622272H",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE EMILE ZOLA",
+  "adresse": "Rue de Cracovie",
+  "code_postal": "62540",
+  "commune": "MARLES LES MINES",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4505",
+  "latitude": 50.5,
+  "longitude": 2.5,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 268,
+    "score": 9.41,
+    "nb_classes": 395,
+    "rang_2023": 318,
+    "evolution": 50,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 82.0,
+    "va": -4.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 82.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 10.0,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 83
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 82.0,
+    "va_reu": -5.0,
+    "note_ecrit_brute": 10.2,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 111
+  },
+  "ips": {
+    "valeur": 86.5,
+    "ecart_type": 29.2,
+    "percentile": 31,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 86.5,
+    "moyenne_academie": 96.9,
+    "ecart": -10.4,
+    "percentile": 31,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "268e sur 395",
+    "evolution_texte": "en forte hausse de 50 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 268e sur 395 — en forte hausse de 50 places.",
+    "phrase_longue": "En 2024, ce collège gagne 50 places et se classe 268e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622272H",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 124,
+      "score": 12.41,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 93.0,
+      "va_reu": 7.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622272H",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 318,
+      "score": 9.84,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 111,
+      "taux_reu": 82.0,
+      "va_reu": -5.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622272H",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 268,
+      "score": 9.41,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 83,
+      "taux_reu": 82.0,
+      "va_reu": -4.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

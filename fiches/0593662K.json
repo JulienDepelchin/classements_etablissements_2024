@@ -1,0 +1,138 @@
+{
+  "uai": "0593662K",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN DEMAILLY",
+  "adresse": "Rue du Collège",
+  "code_postal": "59474",
+  "commune": "SECLIN",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.9585",
+  "latitude": 50.54,
+  "longitude": 3.01,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 128,
+    "score": 11.89,
+    "nb_classes": 395,
+    "rang_2023": 236,
+    "evolution": 108,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 96.0,
+    "va": 11.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 11.0,
+    "note_ecrit_brute": 10.3,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 90
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 10.1,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 113
+  },
+  "ips": {
+    "valeur": 92.2,
+    "ecart_type": 34.7,
+    "percentile": 45,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 92.2,
+    "moyenne_academie": 96.9,
+    "ecart": -4.7,
+    "percentile": 45,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "128e sur 395",
+    "evolution_texte": "en forte hausse de 108 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +11 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 128e sur 395 — en forte hausse de 108 places.",
+    "phrase_longue": "En 2024, ce collège gagne 108 places et se classe 128e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +11 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0593662K",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 322,
+      "score": 9.27,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 82,
+      "taux_reu": 85.0,
+      "va_reu": -5.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": -0.7,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593662K",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 236,
+      "score": 11.16,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 93.0,
+      "va_reu": 6.0,
+      "note_ecrit": 10.1,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593662K",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 128,
+      "score": 11.89,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 90,
+      "taux_reu": 96.0,
+      "va_reu": 11.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0593185S",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ANATOLE FRANCE",
+  "adresse": "242 rue Gambetta",
+  "code_postal": "59450",
+  "commune": "SIN LE NOBLE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11514",
+  "latitude": 50.36,
+  "longitude": 3.11,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 389,
+    "score": 4.86,
+    "nb_classes": 395,
+    "rang_2023": 373,
+    "evolution": -16,
+    "indicateur_cle_variation": "- taux_reu_brut"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 49.0,
+    "va": -16.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 49.0,
+    "va_reu": -16.0,
+    "note_ecrit_brute": 7.6,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 86.0,
+    "nb_candidats": 138
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 75.0,
+    "va_reu": -10.0,
+    "note_ecrit_brute": 9.4,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 135
+  },
+  "ips": {
+    "valeur": 74.2,
+    "ecart_type": 23.6,
+    "percentile": 7,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 74.2,
+    "moyenne_academie": 96.9,
+    "ecart": -22.7,
+    "percentile": 7,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "389e sur 395",
+    "evolution_texte": "en recul de 16 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −16 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 389e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 16 places et recule à la 389e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −16 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593185S",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 362,
+      "score": 8.01,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 145,
+      "taux_reu": 78.0,
+      "va_reu": -5.0,
+      "note_ecrit": 8.0,
+      "va_note_ecrit": -0.7,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593185S",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 373,
+      "score": 8.01,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 135,
+      "taux_reu": 75.0,
+      "va_reu": -10.0,
+      "note_ecrit": 9.4,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593185S",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 389,
+      "score": 4.86,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 138,
+      "taux_reu": 49.0,
+      "va_reu": -16.0,
+      "note_ecrit": 7.6,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

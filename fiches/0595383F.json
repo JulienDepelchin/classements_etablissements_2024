@@ -1,0 +1,125 @@
+{
+  "uai": "0595383F",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINTE JEANNE D'ARC",
+  "adresse": "157 rue de l'Hotel de Ville",
+  "code_postal": "59620",
+  "commune": "AULNOYE AYMERIES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11865",
+  "latitude": 50.2,
+  "longitude": 3.83,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 83.0,
+    "va_reu": null,
+    "note_ecrit_brute": 11.7,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 36
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": -2.0,
+    "note_ecrit_brute": 11.7,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 78.0,
+    "nb_candidats": 49
+  },
+  "ips": {
+    "valeur": 102.6,
+    "ecart_type": 30.9,
+    "percentile": 68,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 102.6,
+    "moyenne_academie": 96.9,
+    "ecart": 5.7,
+    "percentile": 68,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0595383F",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 352,
+      "score": 8.46,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 50,
+      "taux_reu": 80.0,
+      "va_reu": -11.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 75.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595383F",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 49,
+      "taux_reu": 90.0,
+      "va_reu": -2.0,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 78.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595383F",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 36,
+      "taux_reu": 83.0,
+      "va_reu": null,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": null,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

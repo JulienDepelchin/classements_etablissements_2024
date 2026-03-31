@@ -1,0 +1,138 @@
+{
+  "uai": "0622581U",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE GERARD PHILIPE",
+  "adresse": "225 place Wagon",
+  "code_postal": "62110",
+  "commune": "HENIN BEAUMONT",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5590",
+  "latitude": 50.42,
+  "longitude": 2.94,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 207,
+    "score": 10.37,
+    "nb_classes": 395,
+    "rang_2023": 312,
+    "evolution": 105,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "VA note à l’écrit",
+    "nom_court": "note à l’écrit",
+    "valeur": 10.2,
+    "va": 0.9,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 79.0,
+    "va_reu": 0.0,
+    "note_ecrit_brute": 10.2,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 85.0,
+    "nb_candidats": 105
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 79.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 9.7,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 111
+  },
+  "ips": {
+    "valeur": 85.3,
+    "ecart_type": 24.6,
+    "percentile": 29,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 85.3,
+    "moyenne_academie": 96.9,
+    "ecart": -11.6,
+    "percentile": 29,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "207e sur 395",
+    "evolution_texte": "en forte hausse de 105 places",
+    "indicateur_cle_texte": null,
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 207e sur 395 — en forte hausse de 105 places.",
+    "phrase_longue": "En 2024, ce collège gagne 105 places et se classe 207e sur 395. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622581U",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 143,
+      "score": 12.08,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 95,
+      "taux_reu": 86.0,
+      "va_reu": 3.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622581U",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 312,
+      "score": 10.01,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 111,
+      "taux_reu": 79.0,
+      "va_reu": -3.0,
+      "note_ecrit": 9.7,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622581U",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 207,
+      "score": 10.37,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 105,
+      "taux_reu": 79.0,
+      "va_reu": 0.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

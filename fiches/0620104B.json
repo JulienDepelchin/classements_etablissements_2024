@@ -1,0 +1,138 @@
+{
+  "uai": "0620104B",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE GABRIEL DE LA GORCE",
+  "adresse": "16 rue Jules Ferry",
+  "code_postal": "62650",
+  "commune": "HUCQUELIERS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.10393",
+  "latitude": 50.57,
+  "longitude": 1.91,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 66,
+    "score": 13.2,
+    "nb_classes": 395,
+    "rang_2023": 144,
+    "evolution": 78,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 93.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 12.0,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 98
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 12.1,
+    "va_note_ecrit": 0.4,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 94
+  },
+  "ips": {
+    "valeur": 92.3,
+    "ecart_type": 29.7,
+    "percentile": 45,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 92.3,
+    "moyenne_academie": 96.9,
+    "ecart": -4.6,
+    "percentile": 45,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "66e sur 395",
+    "evolution_texte": "en forte hausse de 78 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 66e sur 395 — en forte hausse de 78 places.",
+    "phrase_longue": "En 2024, ce collège gagne 78 places et se classe 66e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0620104B",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 211,
+      "score": 11.22,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 98,
+      "taux_reu": 87.0,
+      "va_reu": -2.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620104B",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 144,
+      "score": 12.48,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 94,
+      "taux_reu": 94.0,
+      "va_reu": 1.0,
+      "note_ecrit": 12.1,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620104B",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 66,
+      "score": 13.2,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 98,
+      "taux_reu": 93.0,
+      "va_reu": 4.0,
+      "note_ecrit": 12.0,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0590150T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE GUILLAUME BUDE",
+  "adresse": "1 allée Guillaume Budé",
+  "code_postal": "59600",
+  "commune": "MAUBEUGE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14979",
+  "latitude": 50.28,
+  "longitude": 3.99,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 44,
+    "score": 13.72,
+    "nb_classes": 395,
+    "rang_2023": 214,
+    "evolution": 170,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 95.0,
+    "va": 9.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 9.0,
+    "note_ecrit_brute": 11.2,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 120
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 89.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 10.7,
+    "va_note_ecrit": 0.4,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 124
+  },
+  "ips": {
+    "valeur": 96.4,
+    "ecart_type": 31.5,
+    "percentile": 55,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 96.4,
+    "moyenne_academie": 96.9,
+    "ecart": -0.5,
+    "percentile": 56,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "44e sur 395",
+    "evolution_texte": "en forte hausse de 170 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +9 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 44e sur 395 — en forte hausse de 170 places.",
+    "phrase_longue": "En 2024, ce collège gagne 170 places et se classe 44e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +9 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0590150T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 234,
+      "score": 10.94,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 126,
+      "taux_reu": 85.0,
+      "va_reu": 0.0,
+      "note_ecrit": 9.4,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590150T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 214,
+      "score": 11.69,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 124,
+      "taux_reu": 89.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590150T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 44,
+      "score": 13.72,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 120,
+      "taux_reu": 95.0,
+      "va_reu": 9.0,
+      "note_ecrit": 11.2,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0593678C",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN MOULIN",
+  "adresse": "41 rue Henri Durre",
+  "code_postal": "59135",
+  "commune": "WALLERS",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.861",
+  "latitude": 50.37,
+  "longitude": 3.4,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 118,
+    "score": 12.08,
+    "nb_classes": 395,
+    "rang_2023": 72,
+    "evolution": -46,
+    "indicateur_cle_variation": "- note_ecrit_brute"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 85.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 85.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 10.3,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 100
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 7.0,
+    "note_ecrit_brute": 11.6,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 125
+  },
+  "ips": {
+    "valeur": 89.0,
+    "ecart_type": 31.3,
+    "percentile": 38,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 89.0,
+    "moyenne_academie": 96.9,
+    "ecart": -7.9,
+    "percentile": 38,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "118e sur 395",
+    "evolution_texte": "en forte baisse de 46 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 118e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 46 places et se retrouve à la 118e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593678C",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 121,
+      "score": 12.45,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 103,
+      "taux_reu": 87.0,
+      "va_reu": 3.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593678C",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 72,
+      "score": 13.56,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 125,
+      "taux_reu": 95.0,
+      "va_reu": 7.0,
+      "note_ecrit": 11.6,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593678C",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 118,
+      "score": 12.08,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 100,
+      "taux_reu": 85.0,
+      "va_reu": 4.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

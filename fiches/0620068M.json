@@ -1,0 +1,138 @@
+{
+  "uai": "0620068M",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE FREDERIC JOLIOT-CURIE",
+  "adresse": "9 rue du Marais",
+  "code_postal": "62470",
+  "commune": "CALONNE RICOUART",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14473",
+  "latitude": 50.49,
+  "longitude": 2.48,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 117,
+    "score": 12.1,
+    "nb_classes": 395,
+    "rang_2023": 158,
+    "evolution": 41,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 98.0,
+    "va": 16.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 16.0,
+    "note_ecrit_brute": 9.7,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 89
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 9.0,
+    "note_ecrit_brute": 10.1,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 81
+  },
+  "ips": {
+    "valeur": 84.0,
+    "ecart_type": 27.3,
+    "percentile": 25,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 84.0,
+    "moyenne_academie": 96.9,
+    "ecart": -12.9,
+    "percentile": 25,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "117e sur 395",
+    "evolution_texte": "en forte hausse de 41 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +16 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 117e sur 395 — en forte hausse de 41 places.",
+    "phrase_longue": "En 2024, ce collège gagne 41 places et se classe 117e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +16 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0620068M",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 290,
+      "score": 10.04,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 95,
+      "taux_reu": 86.0,
+      "va_reu": 5.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620068M",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 158,
+      "score": 12.33,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 81,
+      "taux_reu": 94.0,
+      "va_reu": 9.0,
+      "note_ecrit": 10.1,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620068M",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 117,
+      "score": 12.1,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 89,
+      "taux_reu": 98.0,
+      "va_reu": 16.0,
+      "note_ecrit": 9.7,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

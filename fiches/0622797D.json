@@ -1,0 +1,138 @@
+{
+  "uai": "0622797D",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE LIBERTE",
+  "adresse": "6 rue Paul et François Vasseur",
+  "code_postal": "62232",
+  "commune": "ANNEZIN",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4303",
+  "latitude": 50.54,
+  "longitude": 2.62,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 86,
+    "score": 12.84,
+    "nb_classes": 395,
+    "rang_2023": 131,
+    "evolution": 45,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 91.0,
+    "va": 6.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 91.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 10.9,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 97.0,
+    "nb_candidats": 148
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 92.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 10.9,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 135
+  },
+  "ips": {
+    "valeur": 98.5,
+    "ecart_type": 30.1,
+    "percentile": 60,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 98.5,
+    "moyenne_academie": 96.9,
+    "ecart": 1.6,
+    "percentile": 60,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "86e sur 395",
+    "evolution_texte": "en forte hausse de 45 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 86e sur 395 — en forte hausse de 45 places.",
+    "phrase_longue": "En 2024, ce collège gagne 45 places et se classe 86e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0622797D",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 197,
+      "score": 11.39,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 142,
+      "taux_reu": 92.0,
+      "va_reu": 2.0,
+      "note_ecrit": 10.1,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622797D",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 131,
+      "score": 12.66,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 135,
+      "taux_reu": 92.0,
+      "va_reu": 4.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622797D",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 86,
+      "score": 12.84,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 148,
+      "taux_reu": 91.0,
+      "va_reu": 6.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "uai": "0622097T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN ROSTAND",
+  "adresse": "27 rue du 19 Mars 1962",
+  "code_postal": "62770",
+  "commune": "AUCHY LES HESDIN",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12963",
+  "latitude": 50.4,
+  "longitude": 2.1,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 75.0,
+    "va_reu": null,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 98.0,
+    "nb_candidats": 32
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 10.7,
+    "va_note_ecrit": 1.3,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 39
+  },
+  "ips": {
+    "valeur": 80.7,
+    "ecart_type": 22.5,
+    "percentile": 18,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q1"
+  },
+  "ips_academie": {
+    "valeur": 80.7,
+    "moyenne_academie": 96.9,
+    "ecart": -16.2,
+    "percentile": 18,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0622097T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 35,
+      "taux_reu": 94.0,
+      "va_reu": 5.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622097T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 39,
+      "taux_reu": 90.0,
+      "va_reu": 8.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 1.3,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622097T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 32,
+      "taux_reu": 75.0,
+      "va_reu": null,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": null,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

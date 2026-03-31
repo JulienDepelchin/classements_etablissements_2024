@@ -1,0 +1,138 @@
+{
+  "uai": "0593101A",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE FENELON",
+  "adresse": "54 avenue des Bains",
+  "code_postal": "59140",
+  "commune": "DUNKERQUE",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15135",
+  "latitude": 51.05,
+  "longitude": 2.39,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 150,
+    "score": 11.43,
+    "nb_classes": 395,
+    "rang_2023": 71,
+    "evolution": -79,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 98.0,
+    "va": 3.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 12.1,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 113
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 13.0,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 98
+  },
+  "ips": {
+    "valeur": 119.6,
+    "ecart_type": 33.4,
+    "percentile": 88,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 119.6,
+    "moyenne_academie": 96.9,
+    "ecart": 22.7,
+    "percentile": 88,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "150e sur 395",
+    "evolution_texte": "en forte baisse de 79 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 150e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 79 places et se retrouve à la 150e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593101A",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 196,
+      "score": 11.4,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 96,
+      "taux_reu": 98.0,
+      "va_reu": 1.0,
+      "note_ecrit": 12.0,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593101A",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 71,
+      "score": 13.59,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 98,
+      "taux_reu": 100.0,
+      "va_reu": 4.0,
+      "note_ecrit": 13.0,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593101A",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 150,
+      "score": 11.43,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 98.0,
+      "va_reu": 3.0,
+      "note_ecrit": 12.1,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0595713P",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ALPHONSE DAUDET",
+  "adresse": "96 rue Roger Salengro",
+  "code_postal": "59115",
+  "commune": "LEERS",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.7790",
+  "latitude": 50.68,
+  "longitude": 3.24,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 156,
+    "score": 11.33,
+    "nb_classes": 395,
+    "rang_2023": 253,
+    "evolution": 97,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 91.0,
+    "va": 2.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 91.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 11.2,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 128
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 0.0,
+    "note_ecrit_brute": 11.5,
+    "va_note_ecrit": -0.5,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 104
+  },
+  "ips": {
+    "valeur": 112.2,
+    "ecart_type": 33.6,
+    "percentile": 81,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 112.2,
+    "moyenne_academie": 96.9,
+    "ecart": 15.3,
+    "percentile": 81,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "156e sur 395",
+    "evolution_texte": "en forte hausse de 97 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +2 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 156e sur 395 — en forte hausse de 97 places.",
+    "phrase_longue": "En 2024, ce collège gagne 97 places et se classe 156e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +2 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0595713P",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 244,
+      "score": 10.74,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 128,
+      "taux_reu": 95.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": -0.9,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595713P",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 253,
+      "score": 10.9,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 104,
+      "taux_reu": 95.0,
+      "va_reu": 0.0,
+      "note_ecrit": 11.5,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595713P",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 156,
+      "score": 11.33,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 128,
+      "taux_reu": 91.0,
+      "va_reu": 2.0,
+      "note_ecrit": 11.2,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

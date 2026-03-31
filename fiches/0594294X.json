@@ -1,0 +1,138 @@
+{
+  "uai": "0594294X",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE HENRI DUNANT",
+  "adresse": "43 rue Victorine Deroide",
+  "code_postal": "59660",
+  "commune": "MERVILLE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13332",
+  "latitude": 50.65,
+  "longitude": 2.64,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 376,
+    "score": 6.11,
+    "nb_classes": 395,
+    "rang_2023": 370,
+    "evolution": -6,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 69.0,
+    "va": -12.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 69.0,
+    "va_reu": -12.0,
+    "note_ecrit_brute": 9.0,
+    "va_note_ecrit": -0.6,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 64
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 81.0,
+    "va_reu": -5.0,
+    "note_ecrit_brute": 9.4,
+    "va_note_ecrit": -0.4,
+    "taux_acces_6e_3e": 84.0,
+    "nb_candidats": 62
+  },
+  "ips": {
+    "valeur": 80.2,
+    "ecart_type": 23.6,
+    "percentile": 16,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 80.2,
+    "moyenne_academie": 96.9,
+    "ecart": -16.7,
+    "percentile": 17,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "376e sur 395",
+    "evolution_texte": "en légère baisse de 6 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −12 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 376e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 376e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −12 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594294X",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 363,
+      "score": 8.01,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 82,
+      "taux_reu": 85.0,
+      "va_reu": -3.0,
+      "note_ecrit": 8.1,
+      "va_note_ecrit": -1.3,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594294X",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 370,
+      "score": 8.16,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 62,
+      "taux_reu": 81.0,
+      "va_reu": -5.0,
+      "note_ecrit": 9.4,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594294X",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 376,
+      "score": 6.11,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 64,
+      "taux_reu": 69.0,
+      "va_reu": -12.0,
+      "note_ecrit": 9.0,
+      "va_note_ecrit": -0.6,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

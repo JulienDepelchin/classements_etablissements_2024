@@ -1,0 +1,89 @@
+{
+  "uai": "0624343J",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT VINCENT",
+  "adresse": "32 rue Baudimont",
+  "code_postal": "62000",
+  "commune": "ARRAS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15632",
+  "latitude": 50.29,
+  "longitude": 2.77,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 95.0,
+    "va_reu": null,
+    "note_ecrit_brute": 10.9,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 22
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": null,
+    "va_reu": null,
+    "note_ecrit_brute": null,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": null,
+    "nb_candidats": null
+  },
+  "ips": {
+    "valeur": 116.8,
+    "ecart_type": 29.6,
+    "percentile": 86,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 116.8,
+    "moyenne_academie": 96.9,
+    "ecart": 19.9,
+    "percentile": 86,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "très favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0624343J",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 22,
+      "taux_reu": 95.0,
+      "va_reu": null,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": null,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

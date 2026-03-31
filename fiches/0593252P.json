@@ -1,0 +1,138 @@
+{
+  "uai": "0593252P",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE LEO LAGRANGE",
+  "adresse": "5 rue du Gymnase",
+  "code_postal": "59611",
+  "commune": "FOURMIES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3068",
+  "latitude": 50.02,
+  "longitude": 4.05,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 393,
+    "score": 3.8,
+    "nb_classes": 395,
+    "rang_2023": 238,
+    "evolution": -155,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 63.0,
+    "va": -12.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 63.0,
+    "va_reu": -12.0,
+    "note_ecrit_brute": 7.4,
+    "va_note_ecrit": -1.3,
+    "taux_acces_6e_3e": 85.0,
+    "nb_candidats": 75
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 88.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 9.9,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 78
+  },
+  "ips": {
+    "valeur": 84.2,
+    "ecart_type": 29.4,
+    "percentile": 26,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 84.2,
+    "moyenne_academie": 96.9,
+    "ecart": -12.7,
+    "percentile": 26,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "393e sur 395",
+    "evolution_texte": "en forte baisse de 155 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −12 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 393e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 155 places et se retrouve à la 393e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −12 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593252P",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 375,
+      "score": 7.54,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 73,
+      "taux_reu": 81.0,
+      "va_reu": -2.0,
+      "note_ecrit": 8.1,
+      "va_note_ecrit": -0.8,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593252P",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 238,
+      "score": 11.14,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 88.0,
+      "va_reu": 4.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593252P",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 393,
+      "score": 3.8,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 75,
+      "taux_reu": 63.0,
+      "va_reu": -12.0,
+      "note_ecrit": 7.4,
+      "va_note_ecrit": -1.3,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

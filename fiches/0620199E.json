@@ -1,0 +1,138 @@
+{
+  "uai": "0620199E",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PIERRE DAUNOU",
+  "adresse": "38 rue Alexandre Dumas",
+  "code_postal": "62321",
+  "commune": "BOULOGNE SUR MER",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14976",
+  "latitude": 50.72,
+  "longitude": 1.61,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 246,
+    "score": 9.77,
+    "nb_classes": 395,
+    "rang_2023": 149,
+    "evolution": -97,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 82.0,
+    "va": -3.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 82.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 78
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 92.0,
+    "va_reu": 7.0,
+    "note_ecrit_brute": 10.8,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 121
+  },
+  "ips": {
+    "valeur": 88.3,
+    "ecart_type": 31.7,
+    "percentile": 35,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 88.3,
+    "moyenne_academie": 96.9,
+    "ecart": -8.6,
+    "percentile": 35,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "246e sur 395",
+    "evolution_texte": "en forte baisse de 97 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −3 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 246e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 97 places et se retrouve à la 246e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −3 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0620199E",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 221,
+      "score": 11.14,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 108,
+      "taux_reu": 88.0,
+      "va_reu": 4.0,
+      "note_ecrit": 9.4,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620199E",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 149,
+      "score": 12.4,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 121,
+      "taux_reu": 92.0,
+      "va_reu": 7.0,
+      "note_ecrit": 10.8,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620199E",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 246,
+      "score": 9.77,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 82.0,
+      "va_reu": -3.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "uai": "0594541R",
+  "type_etablissement_app": "lp",
+  "type_label": "Lycée Pro",
+  "nom": "LYCEE PROFESSIONNEL IGNACE PLEYEL",
+  "adresse": "31 avenue Pierre Mauroy",
+  "code_postal": "59120",
+  "commune": "LOOS",
+  "departement": "NORD",
+  "secteur": "public",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.9791",
+  "latitude": 50.6,
+  "longitude": 3.04,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 126,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_total": 70.0,
+    "va_reu_total": null,
+    "taux_acces_2nde": 52.0,
+    "va_acces_2nde": null,
+    "taux_men_total": 50.0,
+    "va_men_total": null,
+    "effectifs": 10
+  },
+  "indicateurs_2023": {
+    "taux_reu_total": null,
+    "va_reu_total": null,
+    "taux_acces_2nde": null,
+    "va_acces_2nde": null,
+    "taux_men_total": null,
+    "va_men_total": null
+  },
+  "ips": {
+    "valeur": null,
+    "ecart_type": null,
+    "percentile": null,
+    "quintile": null,
+    "bucket": null,
+    "ref_national": null,
+    "ref_departemental": null,
+    "peer_group": null
+  },
+  "ips_academie": null,
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": null,
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0594541R",
+      "type_etablissement_app": "lp",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "missing indicator(s)",
+      "nb_candidats": null,
+      "taux_reu": 70.0,
+      "va_reu": null,
+      "note_ecrit": null,
+      "va_note_ecrit": null,
+      "taux_acces": 52.0,
+      "va_acces": null,
+      "taux_men": 50.0,
+      "va_men": null
+    }
+  ]
+}

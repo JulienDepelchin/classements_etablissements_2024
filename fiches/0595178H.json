@@ -1,0 +1,138 @@
+{
+  "uai": "0595178H",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE DUPLEIX",
+  "adresse": "10 boulevard des Résistants",
+  "code_postal": "59550",
+  "commune": "LANDRECIES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11509",
+  "latitude": 50.12,
+  "longitude": 3.69,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 293,
+    "score": 8.8,
+    "nb_classes": 395,
+    "rang_2023": 232,
+    "evolution": -61,
+    "indicateur_cle_variation": "- taux_reu_brut"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 74.0,
+    "va": -9.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 74.0,
+    "va_reu": -9.0,
+    "note_ecrit_brute": 9.8,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 109
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 89.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 10.7,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 114
+  },
+  "ips": {
+    "valeur": 97.7,
+    "ecart_type": 33.2,
+    "percentile": 59,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 97.7,
+    "moyenne_academie": 96.9,
+    "ecart": 0.8,
+    "percentile": 59,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "293e sur 395",
+    "evolution_texte": "en forte baisse de 61 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −9 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 293e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 61 places et se retrouve à la 293e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −9 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0595178H",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 251,
+      "score": 10.62,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 112,
+      "taux_reu": 88.0,
+      "va_reu": 1.0,
+      "note_ecrit": 9.1,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595178H",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 232,
+      "score": 11.26,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 114,
+      "taux_reu": 89.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595178H",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 293,
+      "score": 8.8,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 109,
+      "taux_reu": 74.0,
+      "va_reu": -9.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

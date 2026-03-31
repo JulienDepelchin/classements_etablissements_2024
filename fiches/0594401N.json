@@ -1,0 +1,138 @@
+{
+  "uai": "0594401N",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE VAL DE LA SENSEE",
+  "adresse": "459 rue Salvador Allende",
+  "code_postal": "59151",
+  "commune": "ARLEUX",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14470",
+  "latitude": 50.28,
+  "longitude": 3.1,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 69,
+    "score": 13.15,
+    "nb_classes": 395,
+    "rang_2023": 143,
+    "evolution": 74,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 87.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 87.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 10.6,
+    "va_note_ecrit": 1.1,
+    "taux_acces_6e_3e": 98.0,
+    "nb_candidats": 184
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 11.3,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 168
+  },
+  "ips": {
+    "valeur": 103.8,
+    "ecart_type": 33.0,
+    "percentile": 69,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 103.8,
+    "moyenne_academie": 96.9,
+    "ecart": 6.9,
+    "percentile": 69,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "69e sur 395",
+    "evolution_texte": "en forte hausse de 74 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 69e sur 395 — en forte hausse de 74 places.",
+    "phrase_longue": "En 2024, ce collège gagne 74 places et se classe 69e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594401N",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 115,
+      "score": 12.51,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 174,
+      "taux_reu": 91.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594401N",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 143,
+      "score": 12.49,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 168,
+      "taux_reu": 95.0,
+      "va_reu": 3.0,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594401N",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 69,
+      "score": 13.15,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 184,
+      "taux_reu": 87.0,
+      "va_reu": 5.0,
+      "note_ecrit": 10.6,
+      "va_note_ecrit": 1.1,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

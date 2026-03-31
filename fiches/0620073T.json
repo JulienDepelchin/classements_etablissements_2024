@@ -1,0 +1,138 @@
+{
+  "uai": "0620073T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN MONNET",
+  "adresse": "1 rue Jean Monnet",
+  "code_postal": "62137",
+  "commune": "COULOGNE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13320",
+  "latitude": 50.92,
+  "longitude": 1.88,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 228,
+    "score": 10.02,
+    "nb_classes": 395,
+    "rang_2023": 226,
+    "evolution": -2,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 87.0,
+    "va": -4.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 87.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 11.1,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 67
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 91.0,
+    "va_reu": -1.0,
+    "note_ecrit_brute": 11.4,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 88
+  },
+  "ips": {
+    "valeur": 102.6,
+    "ecart_type": 33.7,
+    "percentile": 68,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 102.6,
+    "moyenne_academie": 96.9,
+    "ecart": 5.7,
+    "percentile": 68,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "favorisé",
+    "lecture_performance": "résultats en retrait",
+    "profil_histoire": "cas atypique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "228e sur 395",
+    "evolution_texte": "en légère baisse de 2 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 228e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 228e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0620073T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 286,
+      "score": 10.16,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 105,
+      "taux_reu": 91.0,
+      "va_reu": -1.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620073T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 226,
+      "score": 11.38,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 88,
+      "taux_reu": 91.0,
+      "va_reu": -1.0,
+      "note_ecrit": 11.4,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620073T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 228,
+      "score": 10.02,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 67,
+      "taux_reu": 87.0,
+      "va_reu": -4.0,
+      "note_ecrit": 11.1,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

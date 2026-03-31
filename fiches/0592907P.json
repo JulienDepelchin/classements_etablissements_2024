@@ -1,0 +1,138 @@
+{
+  "uai": "0592907P",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT MICHEL",
+  "adresse": "Allée Maurice Maertens",
+  "code_postal": "59100",
+  "commune": "ROUBAIX",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5520",
+  "latitude": 50.68,
+  "longitude": 3.19,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 184,
+    "score": 10.77,
+    "nb_classes": 395,
+    "rang_2023": 297,
+    "evolution": 113,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 87.0,
+    "va": 10.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 87.0,
+    "va_reu": 10.0,
+    "note_ecrit_brute": 9.9,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 79.0,
+    "nb_candidats": 126
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 10.2,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 74.0,
+    "nb_candidats": 135
+  },
+  "ips": {
+    "valeur": 78.3,
+    "ecart_type": 24.2,
+    "percentile": 14,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 78.3,
+    "moyenne_academie": 96.9,
+    "ecart": -18.6,
+    "percentile": 14,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "184e sur 395",
+    "evolution_texte": "en forte hausse de 113 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +10 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 184e sur 395 — en forte hausse de 113 places.",
+    "phrase_longue": "En 2024, ce collège gagne 113 places et se classe 184e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +10 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0592907P",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Donnees manquantes",
+      "nb_candidats": 114,
+      "taux_reu": 90.0,
+      "va_reu": null,
+      "note_ecrit": 9.4,
+      "va_note_ecrit": null,
+      "taux_acces": 80.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592907P",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 297,
+      "score": 10.27,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 135,
+      "taux_reu": 90.0,
+      "va_reu": 4.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 74.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592907P",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 184,
+      "score": 10.77,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 126,
+      "taux_reu": 87.0,
+      "va_reu": 10.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 79.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

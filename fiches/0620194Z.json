@@ -1,0 +1,138 @@
+{
+  "uai": "0620194Z",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN ROSTAND",
+  "adresse": "234 rue du Collège",
+  "code_postal": "62850",
+  "commune": "LICQUES",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3338",
+  "latitude": 50.78,
+  "longitude": 1.94,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 111,
+    "score": 12.25,
+    "nb_classes": 395,
+    "rang_2023": 20,
+    "evolution": -91,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 93.0,
+    "va": 2.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 11.3,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 98.0,
+    "nb_candidats": 97
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.7,
+    "va_note_ecrit": 1.1,
+    "taux_acces_6e_3e": 97.0,
+    "nb_candidats": 84
+  },
+  "ips": {
+    "valeur": 92.4,
+    "ecart_type": 29.6,
+    "percentile": 45,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 92.4,
+    "moyenne_academie": 96.9,
+    "ecart": -4.5,
+    "percentile": 46,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "111e sur 395",
+    "evolution_texte": "en forte baisse de 91 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +2 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 111e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 91 places et se retrouve à la 111e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +2 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0620194Z",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 77,
+      "score": 13.1,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 81,
+      "taux_reu": 91.0,
+      "va_reu": 0.0,
+      "note_ecrit": 11.1,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620194Z",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 20,
+      "score": 14.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 84,
+      "taux_reu": 98.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.7,
+      "va_note_ecrit": 1.1,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620194Z",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 111,
+      "score": 12.25,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 97,
+      "taux_reu": 93.0,
+      "va_reu": 2.0,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

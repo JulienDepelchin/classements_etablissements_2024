@@ -1,0 +1,138 @@
+{
+  "uai": "0623310L",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE GAMBETTA",
+  "adresse": "25 boulevard Carnot",
+  "code_postal": "62022",
+  "commune": "ARRAS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15886",
+  "latitude": 50.29,
+  "longitude": 2.78,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 266,
+    "score": 9.45,
+    "nb_classes": 395,
+    "rang_2023": 241,
+    "evolution": -25,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 89.0,
+    "va": 1.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 89.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 10.6,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 85.0,
+    "nb_candidats": 97
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 9.9,
+    "va_note_ecrit": -0.4,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 90
+  },
+  "ips": {
+    "valeur": 97.0,
+    "ecart_type": 37.4,
+    "percentile": 57,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 97.0,
+    "moyenne_academie": 96.9,
+    "ecart": 0.1,
+    "percentile": 58,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "266e sur 395",
+    "evolution_texte": "en recul de 25 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 266e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 25 places et recule à la 266e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0623310L",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 255,
+      "score": 10.58,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 93,
+      "taux_reu": 91.0,
+      "va_reu": 2.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": -0.6,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623310L",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 241,
+      "score": 11.04,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 90,
+      "taux_reu": 94.0,
+      "va_reu": 8.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623310L",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 266,
+      "score": 9.45,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 97,
+      "taux_reu": 89.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.6,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

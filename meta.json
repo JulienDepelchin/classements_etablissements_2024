@@ -1,0 +1,81 @@
+{
+  "annee_classement": 2024,
+  "date_generation": "2026-03-31",
+  "departements": [
+    "59",
+    "62"
+  ],
+  "embargo": "Dataset public limité à 2024 — aucune donnée 2025",
+  "methodologie": {
+    "normalisation": "min-max [0–20] sur le pool éligible de l'année",
+    "college": {
+      "indicateurs": [
+        "taux_reu_brut",
+        "va_reu",
+        "note_ecrit_brute",
+        "va_note_ecrit",
+        "taux_acces_6e_3e"
+      ],
+      "poids": {
+        "taux_reu_brut": 1,
+        "va_reu": 1,
+        "note_ecrit_brute": 1,
+        "va_note_ecrit": 2,
+        "taux_acces_6e_3e": 1
+      },
+      "denominateur": 6,
+      "seuil_effectif": 50,
+      "methode_rang": "first"
+    },
+    "lgt": {
+      "indicateurs": [
+        "taux_reu_total",
+        "va_reu_total",
+        "taux_acces_2nde",
+        "va_acces_2nde",
+        "taux_men_total",
+        "va_men_total"
+      ],
+      "poids": {
+        "taux_reu_total": 1,
+        "va_reu_total": 1,
+        "taux_acces_2nde": 2,
+        "va_acces_2nde": 2,
+        "taux_men_total": 1,
+        "va_men_total": 1
+      },
+      "denominateur": 8,
+      "seuil_effectif": 50,
+      "methode_rang": "max"
+    },
+    "lp": {
+      "indicateurs": [
+        "taux_reu_total",
+        "va_reu_total",
+        "taux_acces_2nde",
+        "va_acces_2nde",
+        "taux_men_total",
+        "va_men_total"
+      ],
+      "poids": {
+        "taux_reu_total": 1,
+        "va_reu_total": 1,
+        "taux_acces_2nde": 2,
+        "va_acces_2nde": 2,
+        "taux_men_total": 1,
+        "va_men_total": 1
+      },
+      "denominateur": 8,
+      "seuil_effectif": 30,
+      "methode_rang": "max"
+    }
+  },
+  "totaux_2024": {
+    "college_eligible": 395,
+    "college_exclus": 42,
+    "lgt_eligible": 128,
+    "lgt_exclus": 10,
+    "lp_eligible": 126,
+    "lp_exclus": 12
+  }
+}

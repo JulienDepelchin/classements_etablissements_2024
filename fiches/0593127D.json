@@ -1,0 +1,138 @@
+{
+  "uai": "0593127D",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE LA SAGESSE",
+  "adresse": "49 rue Albert Vanderhaghen",
+  "code_postal": "59320",
+  "commune": "HAUBOURDIN",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.6048",
+  "latitude": 50.61,
+  "longitude": 2.98,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 343,
+    "score": 7.7,
+    "nb_classes": 395,
+    "rang_2023": 343,
+    "evolution": 0,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 90.0,
+    "va": 3.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 9.9,
+    "va_note_ecrit": -0.4,
+    "taux_acces_6e_3e": 72.0,
+    "nb_candidats": 51
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 9.7,
+    "va_note_ecrit": -1.2,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 64
+  },
+  "ips": {
+    "valeur": 108.0,
+    "ecart_type": 29.7,
+    "percentile": 76,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 108.0,
+    "moyenne_academie": 96.9,
+    "ecart": 11.1,
+    "percentile": 76,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "favorisé",
+    "lecture_performance": "résultats en retrait",
+    "profil_histoire": "cas atypique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "343e sur 395",
+    "evolution_texte": "rang stable",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 343e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 343e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593127D",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 305,
+      "score": 9.71,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 60,
+      "taux_reu": 97.0,
+      "va_reu": 3.0,
+      "note_ecrit": 10.1,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 76.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593127D",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 343,
+      "score": 9.17,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 64,
+      "taux_reu": 95.0,
+      "va_reu": 2.0,
+      "note_ecrit": 9.7,
+      "va_note_ecrit": -1.2,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593127D",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 343,
+      "score": 7.7,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 51,
+      "taux_reu": 90.0,
+      "va_reu": 3.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 72.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "uai": "0622136K",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT JOSEPH",
+  "adresse": "38 rue du Général Obert",
+  "code_postal": "62630",
+  "commune": "ETAPLES",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4669",
+  "latitude": 50.51,
+  "longitude": 1.64,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": 9,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": null,
+    "note_ecrit_brute": 14.4,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 59
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 13.8,
+    "va_note_ecrit": 1.9,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 70
+  },
+  "ips": {
+    "valeur": 105.9,
+    "ecart_type": 29.1,
+    "percentile": 73,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 105.9,
+    "moyenne_academie": 96.9,
+    "ecart": 9.0,
+    "percentile": 73,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0622136K",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 12,
+      "score": 15.31,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 74,
+      "taux_reu": 99.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.5,
+      "va_note_ecrit": 1.6,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622136K",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 9,
+      "score": 15.06,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 70,
+      "taux_reu": 100.0,
+      "va_reu": 4.0,
+      "note_ecrit": 13.8,
+      "va_note_ecrit": 1.9,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622136K",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Donnees manquantes",
+      "nb_candidats": 59,
+      "taux_reu": 100.0,
+      "va_reu": null,
+      "note_ecrit": 14.4,
+      "va_note_ecrit": null,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0590062X",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE VILLARS",
+  "adresse": "57 rue Émile Zola",
+  "code_postal": "59721",
+  "commune": "DENAIN",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12964",
+  "latitude": 50.32,
+  "longitude": 3.39,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 383,
+    "score": 5.56,
+    "nb_classes": 395,
+    "rang_2023": 393,
+    "evolution": 10,
+    "indicateur_cle_variation": "- va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 53.0,
+    "va": -16.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 53.0,
+    "va_reu": -16.0,
+    "note_ecrit_brute": 7.8,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 121
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 65.0,
+    "va_reu": -8.0,
+    "note_ecrit_brute": 8.3,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 94
+  },
+  "ips": {
+    "valeur": 73.0,
+    "ecart_type": 24.2,
+    "percentile": 6,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 73.0,
+    "moyenne_academie": 96.9,
+    "ecart": -23.9,
+    "percentile": 6,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "383e sur 395",
+    "evolution_texte": "en légère progression de 10 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −16 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 383e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 383e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −16 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0590062X",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 252,
+      "score": 10.61,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 75.0,
+      "va_reu": 3.0,
+      "note_ecrit": 8.0,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590062X",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 393,
+      "score": 7.11,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 94,
+      "taux_reu": 65.0,
+      "va_reu": -8.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590062X",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 383,
+      "score": 5.56,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 121,
+      "taux_reu": 53.0,
+      "va_reu": -16.0,
+      "note_ecrit": 7.8,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

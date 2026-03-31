@@ -1,0 +1,138 @@
+{
+  "uai": "0622795B",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE FRANCOIS RABELAIS",
+  "adresse": "51 rue René Cassin",
+  "code_postal": "62253",
+  "commune": "HENIN BEAUMONT",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14471",
+  "latitude": 50.41,
+  "longitude": 2.96,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 263,
+    "score": 9.48,
+    "nb_classes": 395,
+    "rang_2023": 251,
+    "evolution": -12,
+    "indicateur_cle_variation": "- va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 77.0,
+    "va": -8.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 77.0,
+    "va_reu": -8.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 147
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 147
+  },
+  "ips": {
+    "valeur": 93.9,
+    "ecart_type": 33.9,
+    "percentile": 50,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 93.9,
+    "moyenne_academie": 96.9,
+    "ecart": -3.0,
+    "percentile": 50,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "263e sur 395",
+    "evolution_texte": "en légère baisse de 12 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −8 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 263e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 263e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −8 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0622795B",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 266,
+      "score": 10.44,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 122,
+      "taux_reu": 87.0,
+      "va_reu": -2.0,
+      "note_ecrit": 9.7,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622795B",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 251,
+      "score": 10.93,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 147,
+      "taux_reu": 90.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622795B",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 263,
+      "score": 9.48,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 147,
+      "taux_reu": 77.0,
+      "va_reu": -8.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

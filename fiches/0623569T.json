@@ -1,0 +1,138 @@
+{
+  "uai": "0623569T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT VAAST-SAINT DOMINIQUE",
+  "adresse": "141 rue Paul Doumer",
+  "code_postal": "62401",
+  "commune": "BETHUNE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.16772",
+  "latitude": 50.53,
+  "longitude": 2.64,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 89,
+    "score": 12.75,
+    "nb_classes": 395,
+    "rang_2023": 46,
+    "evolution": -43,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 97.0,
+    "va": 3.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 12.8,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 87.0,
+    "nb_candidats": 157
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 99.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 13.7,
+    "va_note_ecrit": 1.2,
+    "taux_acces_6e_3e": 85.0,
+    "nb_candidats": 147
+  },
+  "ips": {
+    "valeur": 131.5,
+    "ecart_type": 31.4,
+    "percentile": 96,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 131.5,
+    "moyenne_academie": 96.9,
+    "ecart": 34.6,
+    "percentile": 96,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "89e sur 395",
+    "evolution_texte": "en forte baisse de 43 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 89e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 43 places et se retrouve à la 89e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0623569T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 33,
+      "score": 14.0,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 157,
+      "taux_reu": 99.0,
+      "va_reu": 3.0,
+      "note_ecrit": 12.8,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623569T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 46,
+      "score": 14.12,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 147,
+      "taux_reu": 99.0,
+      "va_reu": 3.0,
+      "note_ecrit": 13.7,
+      "va_note_ecrit": 1.2,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623569T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 89,
+      "score": 12.75,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 157,
+      "taux_reu": 97.0,
+      "va_reu": 3.0,
+      "note_ecrit": 12.8,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

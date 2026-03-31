@@ -1,0 +1,138 @@
+{
+  "uai": "0594394F",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE MARIE CURIE",
+  "adresse": "70 rue des Ursulines",
+  "code_postal": "59203",
+  "commune": "TOURCOING",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5585",
+  "latitude": 50.72,
+  "longitude": 3.15,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 349,
+    "score": 7.58,
+    "nb_classes": 395,
+    "rang_2023": 386,
+    "evolution": 37,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 74.0,
+    "va": 1.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 74.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 8.4,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 84.0,
+    "nb_candidats": 109
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 73.0,
+    "va_reu": -5.0,
+    "note_ecrit_brute": 8.8,
+    "va_note_ecrit": -0.5,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 123
+  },
+  "ips": {
+    "valeur": 80.8,
+    "ecart_type": 33.6,
+    "percentile": 18,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 80.8,
+    "moyenne_academie": 96.9,
+    "ecart": -16.1,
+    "percentile": 18,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "349e sur 395",
+    "evolution_texte": "en hausse de 37 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 349e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 37 places et se classe 349e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594394F",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 357,
+      "score": 8.24,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 100,
+      "taux_reu": 79.0,
+      "va_reu": 1.0,
+      "note_ecrit": 8.0,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594394F",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 386,
+      "score": 7.59,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 123,
+      "taux_reu": 73.0,
+      "va_reu": -5.0,
+      "note_ecrit": 8.8,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594394F",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 349,
+      "score": 7.58,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 109,
+      "taux_reu": 74.0,
+      "va_reu": 1.0,
+      "note_ecrit": 8.4,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

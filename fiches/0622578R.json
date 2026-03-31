@@ -1,0 +1,138 @@
+{
+  "uai": "0622578R",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN ROSTAND",
+  "adresse": "12 boulevard des Sports",
+  "code_postal": "62114",
+  "commune": "SAINS EN GOHELLE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1790",
+  "latitude": 50.44,
+  "longitude": 2.68,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 21,
+    "score": 14.45,
+    "nb_classes": 395,
+    "rang_2023": 268,
+    "evolution": 247,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 96.0,
+    "va": 11.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 11.0,
+    "note_ecrit_brute": 11.1,
+    "va_note_ecrit": 1.2,
+    "taux_acces_6e_3e": 97.0,
+    "nb_candidats": 77
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 9.6,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 89
+  },
+  "ips": {
+    "valeur": 93.4,
+    "ecart_type": 30.5,
+    "percentile": 49,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 93.4,
+    "moyenne_academie": 96.9,
+    "ecart": -3.5,
+    "percentile": 49,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "21e sur 395",
+    "evolution_texte": "en forte hausse de 247 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +11 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 21e sur 395 — en forte hausse de 247 places.",
+    "phrase_longue": "En 2024, ce collège gagne 247 places et se classe 21e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +11 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0622578R",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 223,
+      "score": 11.08,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 70,
+      "taux_reu": 87.0,
+      "va_reu": -1.0,
+      "note_ecrit": 9.5,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622578R",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 268,
+      "score": 10.74,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 89,
+      "taux_reu": 90.0,
+      "va_reu": 4.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622578R",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 21,
+      "score": 14.45,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 77,
+      "taux_reu": 96.0,
+      "va_reu": 11.0,
+      "note_ecrit": 11.1,
+      "va_note_ecrit": 1.2,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

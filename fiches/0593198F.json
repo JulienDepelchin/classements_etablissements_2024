@@ -1,0 +1,138 @@
+{
+  "uai": "0593198F",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE COMMUNAUTAIRE",
+  "adresse": "36 rue Louis Constant",
+  "code_postal": "59491",
+  "commune": "VILLENEUVE D ASCQ",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.2493",
+  "latitude": 50.66,
+  "longitude": 3.14,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 178,
+    "score": 10.92,
+    "nb_classes": 395,
+    "rang_2023": 381,
+    "evolution": 203,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 96.0,
+    "va": 19.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 19.0,
+    "note_ecrit_brute": 8.8,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 90
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 92.0,
+    "va_reu": 7.0,
+    "note_ecrit_brute": 8.1,
+    "va_note_ecrit": -0.9,
+    "taux_acces_6e_3e": 72.0,
+    "nb_candidats": 83
+  },
+  "ips": {
+    "valeur": 112.3,
+    "ecart_type": 33.5,
+    "percentile": 81,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 112.3,
+    "moyenne_academie": 96.9,
+    "ecart": 15.4,
+    "percentile": 81,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "178e sur 395",
+    "evolution_texte": "en forte hausse de 203 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +19 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 178e sur 395 — en forte hausse de 203 places.",
+    "phrase_longue": "En 2024, ce collège gagne 203 places et se classe 178e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +19 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593198F",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 387,
+      "score": 6.87,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 89,
+      "taux_reu": 83.0,
+      "va_reu": 0.0,
+      "note_ecrit": 7.2,
+      "va_note_ecrit": -1.1,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593198F",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 381,
+      "score": 7.76,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 83,
+      "taux_reu": 92.0,
+      "va_reu": 7.0,
+      "note_ecrit": 8.1,
+      "va_note_ecrit": -0.9,
+      "taux_acces": 72.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593198F",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 178,
+      "score": 10.92,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 90,
+      "taux_reu": 96.0,
+      "va_reu": 19.0,
+      "note_ecrit": 8.8,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

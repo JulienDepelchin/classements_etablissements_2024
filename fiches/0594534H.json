@@ -1,0 +1,125 @@
+{
+  "uai": "0594534H",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PAUL LANGEVIN",
+  "adresse": "Rue de l'Egalite",
+  "code_postal": "59125",
+  "commune": "TRITH ST LEGER",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.16507",
+  "latitude": 50.33,
+  "longitude": 3.48,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": 336,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 79.0,
+    "va_reu": null,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 38
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 83.0,
+    "va_reu": -8.0,
+    "note_ecrit_brute": 10.4,
+    "va_note_ecrit": -0.5,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 53
+  },
+  "ips": {
+    "valeur": 90.5,
+    "ecart_type": 28.4,
+    "percentile": 41,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 90.5,
+    "moyenne_academie": 96.9,
+    "ecart": -6.4,
+    "percentile": 41,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0594534H",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 370,
+      "score": 7.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 73,
+      "taux_reu": 73.0,
+      "va_reu": -12.0,
+      "note_ecrit": 8.7,
+      "va_note_ecrit": -0.3,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594534H",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 336,
+      "score": 9.27,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 53,
+      "taux_reu": 83.0,
+      "va_reu": -8.0,
+      "note_ecrit": 10.4,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594534H",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 38,
+      "taux_reu": 79.0,
+      "va_reu": null,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": null,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

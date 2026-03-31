@@ -1,0 +1,138 @@
+{
+  "uai": "0620016F",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN MONNET",
+  "adresse": "4 rue du Jeu de Balle",
+  "code_postal": "62690",
+  "commune": "AUBIGNY EN ARTOIS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4564",
+  "latitude": 50.35,
+  "longitude": 2.59,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 70,
+    "score": 13.14,
+    "nb_classes": 395,
+    "rang_2023": 35,
+    "evolution": -35,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 98.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.2,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 98.0,
+    "nb_candidats": 121
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.6,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 107
+  },
+  "ips": {
+    "valeur": 110.0,
+    "ecart_type": 32.6,
+    "percentile": 78,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 110.0,
+    "moyenne_academie": 96.9,
+    "ecart": 13.1,
+    "percentile": 78,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "70e sur 395",
+    "evolution_texte": "en recul de 35 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 70e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 35 places et recule à la 70e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0620016F",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 50,
+      "score": 13.56,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 128,
+      "taux_reu": 99.0,
+      "va_reu": 4.0,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620016F",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 35,
+      "score": 14.4,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 107,
+      "taux_reu": 100.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.6,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620016F",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 70,
+      "score": 13.14,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 121,
+      "taux_reu": 98.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.2,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

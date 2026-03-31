@@ -1,0 +1,125 @@
+{
+  "uai": "0595712N",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN MONNET",
+  "adresse": "Boulevard Robert Pruvot",
+  "code_postal": "59153",
+  "commune": "GRAND FORT PHILIPPE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11633",
+  "latitude": 51.0,
+  "longitude": 2.11,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 80.0,
+    "va_reu": -6.0,
+    "note_ecrit_brute": 11.4,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 40
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 79.0,
+    "va_reu": -7.0,
+    "note_ecrit_brute": 10.8,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 33
+  },
+  "ips": {
+    "valeur": 90.4,
+    "ecart_type": 27.5,
+    "percentile": 41,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 90.4,
+    "moyenne_academie": 96.9,
+    "ecart": -6.5,
+    "percentile": 41,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0595712N",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 37,
+      "taux_reu": 95.0,
+      "va_reu": 7.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595712N",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 33,
+      "taux_reu": 79.0,
+      "va_reu": -7.0,
+      "note_ecrit": 10.8,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595712N",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 40,
+      "taux_reu": 80.0,
+      "va_reu": -6.0,
+      "note_ecrit": 11.4,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

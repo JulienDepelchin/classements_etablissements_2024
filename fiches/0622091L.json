@@ -1,0 +1,138 @@
+{
+  "uai": "0622091L",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE GEORGES BRASSENS",
+  "adresse": "297 rue de Guarbecque",
+  "code_postal": "62350",
+  "commune": "SAINT VENANT",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5656",
+  "latitude": 50.62,
+  "longitude": 2.54,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 14,
+    "score": 14.67,
+    "nb_classes": 395,
+    "rang_2023": 79,
+    "evolution": 65,
+    "indicateur_cle_variation": "+ taux_reu_brut"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 96.0,
+    "va": 3.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 13.2,
+    "va_note_ecrit": 1.4,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 100
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": -2.0,
+    "note_ecrit_brute": 12.6,
+    "va_note_ecrit": 1.3,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 99
+  },
+  "ips": {
+    "valeur": 105.7,
+    "ecart_type": 32.6,
+    "percentile": 72,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 105.7,
+    "moyenne_academie": 96.9,
+    "ecart": 8.8,
+    "percentile": 72,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "14e sur 395",
+    "evolution_texte": "en forte hausse de 65 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 14e sur 395 — en forte hausse de 65 places.",
+    "phrase_longue": "En 2024, ce collège gagne 65 places et se classe 14e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622091L",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 184,
+      "score": 11.53,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 106,
+      "taux_reu": 88.0,
+      "va_reu": -4.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622091L",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 79,
+      "score": 13.39,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 99,
+      "taux_reu": 90.0,
+      "va_reu": -2.0,
+      "note_ecrit": 12.6,
+      "va_note_ecrit": 1.3,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622091L",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 14,
+      "score": 14.67,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 100,
+      "taux_reu": 96.0,
+      "va_reu": 3.0,
+      "note_ecrit": 13.2,
+      "va_note_ecrit": 1.4,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

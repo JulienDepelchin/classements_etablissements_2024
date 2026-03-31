@@ -1,0 +1,125 @@
+{
+  "uai": "0595390N",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT PIERRE",
+  "adresse": "10 rue du Général Goutierre",
+  "code_postal": "59612",
+  "commune": "FOURMIES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5174",
+  "latitude": 50.01,
+  "longitude": 4.05,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 78.0,
+    "va_reu": -8.0,
+    "note_ecrit_brute": 10.3,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 58.0,
+    "nb_candidats": 46
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 9.0,
+    "va_note_ecrit": -0.5,
+    "taux_acces_6e_3e": 64.0,
+    "nb_candidats": 40
+  },
+  "ips": {
+    "valeur": 93.7,
+    "ecart_type": 32.2,
+    "percentile": 50,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 93.7,
+    "moyenne_academie": 96.9,
+    "ecart": -3.2,
+    "percentile": 50,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0595390N",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 44,
+      "taux_reu": 75.0,
+      "va_reu": -13.0,
+      "note_ecrit": 8.2,
+      "va_note_ecrit": -1.5,
+      "taux_acces": 65.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595390N",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 40,
+      "taux_reu": 90.0,
+      "va_reu": 4.0,
+      "note_ecrit": 9.0,
+      "va_note_ecrit": -0.5,
+      "taux_acces": 64.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595390N",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 46,
+      "taux_reu": 78.0,
+      "va_reu": -8.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 58.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

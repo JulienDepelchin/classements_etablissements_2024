@@ -1,0 +1,138 @@
+{
+  "uai": "0595401A",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT MICHEL",
+  "adresse": "13 rue Émile Zola",
+  "code_postal": "59730",
+  "commune": "SOLESMES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5173",
+  "latitude": 50.18,
+  "longitude": 3.5,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 60,
+    "score": 13.3,
+    "nb_classes": 395,
+    "rang_2023": 201,
+    "evolution": 141,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 100.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 13.7,
+    "va_note_ecrit": 1.5,
+    "taux_acces_6e_3e": 76.0,
+    "nb_candidats": 113
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 12.9,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 75.0,
+    "nb_candidats": 108
+  },
+  "ips": {
+    "valeur": 123.9,
+    "ecart_type": 32.9,
+    "percentile": 91,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 123.9,
+    "moyenne_academie": 96.9,
+    "ecart": 27.0,
+    "percentile": 91,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "60e sur 395",
+    "evolution_texte": "en forte hausse de 141 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 60e sur 395 — en forte hausse de 141 places.",
+    "phrase_longue": "En 2024, ce collège gagne 141 places et se classe 60e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0595401A",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 51,
+      "score": 13.51,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 150,
+      "taux_reu": 99.0,
+      "va_reu": 4.0,
+      "note_ecrit": 12.5,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595401A",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 201,
+      "score": 11.84,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 108,
+      "taux_reu": 97.0,
+      "va_reu": 2.0,
+      "note_ecrit": 12.9,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 75.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595401A",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 60,
+      "score": 13.3,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 100.0,
+      "va_reu": 4.0,
+      "note_ecrit": 13.7,
+      "va_note_ecrit": 1.5,
+      "taux_acces": 76.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

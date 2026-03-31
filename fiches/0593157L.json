@@ -1,0 +1,125 @@
+{
+  "uai": "0593157L",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT JOSEPH",
+  "adresse": "7 avenue du Maréchal Foch",
+  "code_postal": "59142",
+  "commune": "VILLERS OUTREAUX",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13631",
+  "latitude": 50.03,
+  "longitude": 3.3,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": null,
+    "note_ecrit_brute": 11.3,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 72.0,
+    "nb_candidats": 39
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 11.7,
+    "va_note_ecrit": 1.2,
+    "taux_acces_6e_3e": 69.0,
+    "nb_candidats": 42
+  },
+  "ips": {
+    "valeur": 108.4,
+    "ecart_type": 32.3,
+    "percentile": 76,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 108.4,
+    "moyenne_academie": 96.9,
+    "ecart": 11.5,
+    "percentile": 76,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0593157L",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 44,
+      "taux_reu": 95.0,
+      "va_reu": 4.0,
+      "note_ecrit": 10.6,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593157L",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 42,
+      "taux_reu": 93.0,
+      "va_reu": 2.0,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": 1.2,
+      "taux_acces": 69.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593157L",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 39,
+      "taux_reu": 100.0,
+      "va_reu": null,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": null,
+      "taux_acces": 72.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

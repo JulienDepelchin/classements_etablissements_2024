@@ -1,0 +1,138 @@
+{
+  "uai": "0622143T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT MARTIN",
+  "adresse": "125 rue Jean Jaurès",
+  "code_postal": "62250",
+  "commune": "MARQUISE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14469",
+  "latitude": 50.81,
+  "longitude": 1.71,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 29,
+    "score": 14.11,
+    "nb_classes": 395,
+    "rang_2023": 17,
+    "evolution": -12,
+    "indicateur_cle_variation": "- note_ecrit_brute"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 97.0,
+    "va": 6.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 12.6,
+    "va_note_ecrit": 1.6,
+    "taux_acces_6e_3e": 86.0,
+    "nb_candidats": 90
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 13.3,
+    "va_note_ecrit": 1.7,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 66
+  },
+  "ips": {
+    "valeur": 117.5,
+    "ecart_type": 30.6,
+    "percentile": 86,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 117.5,
+    "moyenne_academie": 96.9,
+    "ecart": 20.6,
+    "percentile": 86,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "29e sur 395",
+    "evolution_texte": "en légère baisse de 12 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "Ce collège confirme sa place dans le peloton de tête : 29e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 29e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622143T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 57,
+      "score": 13.39,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 86,
+      "taux_reu": 97.0,
+      "va_reu": 4.0,
+      "note_ecrit": 11.5,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622143T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 17,
+      "score": 14.81,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 66,
+      "taux_reu": 97.0,
+      "va_reu": 3.0,
+      "note_ecrit": 13.3,
+      "va_note_ecrit": 1.7,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622143T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 29,
+      "score": 14.11,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 90,
+      "taux_reu": 97.0,
+      "va_reu": 6.0,
+      "note_ecrit": 12.6,
+      "va_note_ecrit": 1.6,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

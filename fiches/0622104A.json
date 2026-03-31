@@ -1,0 +1,138 @@
+{
+  "uai": "0622104A",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT JEAN-BAPTISTE",
+  "adresse": "1 rue de l'Église",
+  "code_postal": "62452",
+  "commune": "BAPAUME",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.10122",
+  "latitude": 50.1,
+  "longitude": 2.85,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 30,
+    "score": 14.07,
+    "nb_classes": 395,
+    "rang_2023": 22,
+    "evolution": -8,
+    "indicateur_cle_variation": "- note_ecrit_brute"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 97.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.7,
+    "va_note_ecrit": 1.4,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 78
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 99.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 13.4,
+    "va_note_ecrit": 1.5,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 78
+  },
+  "ips": {
+    "valeur": 118.7,
+    "ecart_type": 29.9,
+    "percentile": 87,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 118.7,
+    "moyenne_academie": 96.9,
+    "ecart": 21.8,
+    "percentile": 87,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "30e sur 395",
+    "evolution_texte": "en légère baisse de 8 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "Ce collège confirme sa place dans le peloton de tête : 30e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 30e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622104A",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 68,
+      "score": 13.23,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 83,
+      "taux_reu": 100.0,
+      "va_reu": 7.0,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622104A",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 22,
+      "score": 14.74,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 99.0,
+      "va_reu": 2.0,
+      "note_ecrit": 13.4,
+      "va_note_ecrit": 1.5,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622104A",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 30,
+      "score": 14.07,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 97.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.7,
+      "va_note_ecrit": 1.4,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

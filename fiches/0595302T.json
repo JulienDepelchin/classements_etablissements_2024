@@ -1,0 +1,138 @@
+{
+  "uai": "0595302T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT EXUPERY",
+  "adresse": "80 avenue André Chénier",
+  "code_postal": "59100",
+  "commune": "ROUBAIX",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.8822",
+  "latitude": 50.68,
+  "longitude": 3.17,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 95,
+    "score": 12.59,
+    "nb_classes": 395,
+    "rang_2023": 80,
+    "evolution": -15,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 93.0,
+    "va": 7.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 7.0,
+    "note_ecrit_brute": 11.7,
+    "va_note_ecrit": 1.3,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 171
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 11.8,
+    "va_note_ecrit": 1.1,
+    "taux_acces_6e_3e": 82.0,
+    "nb_candidats": 214
+  },
+  "ips": {
+    "valeur": 90.8,
+    "ecart_type": 35.1,
+    "percentile": 42,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 90.8,
+    "moyenne_academie": 96.9,
+    "ecart": -6.1,
+    "percentile": 42,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "95e sur 395",
+    "evolution_texte": "en recul de 15 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +7 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 95e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 15 places et recule à la 95e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +7 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0595302T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 173,
+      "score": 11.72,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 221,
+      "taux_reu": 95.0,
+      "va_reu": 5.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 73.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595302T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 80,
+      "score": 13.37,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 214,
+      "taux_reu": 98.0,
+      "va_reu": 8.0,
+      "note_ecrit": 11.8,
+      "va_note_ecrit": 1.1,
+      "taux_acces": 82.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595302T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 95,
+      "score": 12.59,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 171,
+      "taux_reu": 93.0,
+      "va_reu": 7.0,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": 1.3,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0590238N",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ROMAIN ROLLAND",
+  "adresse": "Allée Georges Larue",
+  "code_postal": "59119",
+  "commune": "WAZIERS",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.9208",
+  "latitude": 50.39,
+  "longitude": 3.11,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 145,
+    "score": 11.54,
+    "nb_classes": 395,
+    "rang_2023": 260,
+    "evolution": 115,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 81.0,
+    "va": 7.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 81.0,
+    "va_reu": 7.0,
+    "note_ecrit_brute": 9.6,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 72
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 86.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 10.0,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 71
+  },
+  "ips": {
+    "valeur": 79.8,
+    "ecart_type": 22.6,
+    "percentile": 16,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 79.8,
+    "moyenne_academie": 96.9,
+    "ecart": -17.1,
+    "percentile": 16,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "145e sur 395",
+    "evolution_texte": "en forte hausse de 115 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +7 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 145e sur 395 — en forte hausse de 115 places.",
+    "phrase_longue": "En 2024, ce collège gagne 115 places et se classe 145e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +7 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0590238N",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 264,
+      "score": 10.45,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 67,
+      "taux_reu": 75.0,
+      "va_reu": -1.0,
+      "note_ecrit": 8.4,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590238N",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 260,
+      "score": 10.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 71,
+      "taux_reu": 86.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590238N",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 145,
+      "score": 11.54,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 72,
+      "taux_reu": 81.0,
+      "va_reu": 7.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

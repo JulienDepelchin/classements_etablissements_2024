@@ -1,0 +1,138 @@
+{
+  "uai": "0594168K",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN ZAY",
+  "adresse": "Rue de la chaussée Brunehaut",
+  "code_postal": "59750",
+  "commune": "FEIGNIES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15136",
+  "latitude": 50.29,
+  "longitude": 3.92,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 337,
+    "score": 7.95,
+    "nb_classes": 395,
+    "rang_2023": 363,
+    "evolution": 26,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 73.0,
+    "va": -2.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 73.0,
+    "va_reu": -2.0,
+    "note_ecrit_brute": 8.9,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 78
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 69.0,
+    "va_reu": -14.0,
+    "note_ecrit_brute": 10.0,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 65
+  },
+  "ips": {
+    "valeur": 88.1,
+    "ecart_type": 28.9,
+    "percentile": 34,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 88.1,
+    "moyenne_academie": 96.9,
+    "ecart": -8.8,
+    "percentile": 34,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "337e sur 395",
+    "evolution_texte": "en hausse de 26 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −2 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 337e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 26 places et se classe 337e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −2 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594168K",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 386,
+      "score": 6.92,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 69,
+      "taux_reu": 67.0,
+      "va_reu": -13.0,
+      "note_ecrit": 8.6,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594168K",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 363,
+      "score": 8.39,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 65,
+      "taux_reu": 69.0,
+      "va_reu": -14.0,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594168K",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 337,
+      "score": 7.95,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 73.0,
+      "va_reu": -2.0,
+      "note_ecrit": 8.9,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

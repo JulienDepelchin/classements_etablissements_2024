@@ -1,0 +1,138 @@
+{
+  "uai": "0592714E",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE MENDES-FRANCE",
+  "adresse": "19 rue de Soissons",
+  "code_postal": "59203",
+  "commune": "TOURCOING",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4672",
+  "latitude": 50.74,
+  "longitude": 3.19,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 318,
+    "score": 8.39,
+    "nb_classes": 395,
+    "rang_2023": 388,
+    "evolution": 70,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 77.0,
+    "va": 8.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 77.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 8.1,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 84.0,
+    "nb_candidats": 82
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 79.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 7.9,
+    "va_note_ecrit": -1.1,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 72
+  },
+  "ips": {
+    "valeur": 70.0,
+    "ecart_type": 24.3,
+    "percentile": 3,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 70.0,
+    "moyenne_academie": 96.9,
+    "ecart": -26.9,
+    "percentile": 3,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "318e sur 395",
+    "evolution_texte": "en forte hausse de 70 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 318e sur 395 — en forte hausse de 70 places.",
+    "phrase_longue": "En 2024, ce collège gagne 70 places et se classe 318e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0592714E",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 390,
+      "score": 6.38,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 74,
+      "taux_reu": 76.0,
+      "va_reu": -1.0,
+      "note_ecrit": 6.9,
+      "va_note_ecrit": -1.1,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592714E",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 388,
+      "score": 7.48,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 72,
+      "taux_reu": 79.0,
+      "va_reu": 1.0,
+      "note_ecrit": 7.9,
+      "va_note_ecrit": -1.1,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592714E",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 318,
+      "score": 8.39,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 82,
+      "taux_reu": 77.0,
+      "va_reu": 8.0,
+      "note_ecrit": 8.1,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

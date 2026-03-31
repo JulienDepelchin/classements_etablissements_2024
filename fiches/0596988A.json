@@ -1,0 +1,138 @@
+{
+  "uai": "0596988A",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEANNE DE CONSTANTINOPLE",
+  "adresse": "169 avenue Pierre Mauroy",
+  "code_postal": "59850",
+  "commune": "NIEPPE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.17233",
+  "latitude": 50.7,
+  "longitude": 2.85,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 79,
+    "score": 13.0,
+    "nb_classes": 395,
+    "rang_2023": 132,
+    "evolution": 53,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 95.0,
+    "va": 6.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 11.5,
+    "va_note_ecrit": 1.1,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 94
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 11.8,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 89.0,
+    "nb_candidats": 107
+  },
+  "ips": {
+    "valeur": 106.4,
+    "ecart_type": 32.2,
+    "percentile": 73,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 106.4,
+    "moyenne_academie": 96.9,
+    "ecart": 9.5,
+    "percentile": 73,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "79e sur 395",
+    "evolution_texte": "en forte hausse de 53 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 79e sur 395 — en forte hausse de 53 places.",
+    "phrase_longue": "En 2024, ce collège gagne 53 places et se classe 79e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +6 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0596988A",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 149,
+      "score": 11.97,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 95.0,
+      "va_reu": 2.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0596988A",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 132,
+      "score": 12.64,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 107,
+      "taux_reu": 95.0,
+      "va_reu": 3.0,
+      "note_ecrit": 11.8,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 89.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0596988A",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 79,
+      "score": 13.0,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 94,
+      "taux_reu": 95.0,
+      "va_reu": 6.0,
+      "note_ecrit": 11.5,
+      "va_note_ecrit": 1.1,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

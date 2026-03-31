@@ -1,0 +1,138 @@
+{
+  "uai": "0622423X",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE YOURI GAGARINE",
+  "adresse": "Rue Suzanne Lannoy",
+  "code_postal": "62640",
+  "commune": "MONTIGNY EN GOHELLE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12962",
+  "latitude": 50.43,
+  "longitude": 2.93,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 22,
+    "score": 14.45,
+    "nb_classes": 395,
+    "rang_2023": 38,
+    "evolution": 16,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 91.0,
+    "va": 13.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 91.0,
+    "va_reu": 13.0,
+    "note_ecrit_brute": 11.1,
+    "va_note_ecrit": 1.7,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 65
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 13.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": 1.1,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 77
+  },
+  "ips": {
+    "valeur": 77.0,
+    "ecart_type": 25.2,
+    "percentile": 10,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q1"
+  },
+  "ips_academie": {
+    "valeur": 77.0,
+    "moyenne_academie": 96.9,
+    "ecart": -19.9,
+    "percentile": 10,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "surperformance",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "22e sur 395",
+    "evolution_texte": "en hausse de 16 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +13 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 22e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 16 places et se classe 22e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +13 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622423X",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 19,
+      "score": 14.98,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 83,
+      "taux_reu": 93.0,
+      "va_reu": 15.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 1.5,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622423X",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 38,
+      "score": 14.33,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 77,
+      "taux_reu": 97.0,
+      "va_reu": 13.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": 1.1,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622423X",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 22,
+      "score": 14.45,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 65,
+      "taux_reu": 91.0,
+      "va_reu": 13.0,
+      "note_ecrit": 11.1,
+      "va_note_ecrit": 1.7,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

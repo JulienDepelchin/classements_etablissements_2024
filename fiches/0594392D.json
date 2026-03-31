@@ -1,0 +1,138 @@
+{
+  "uai": "0594392D",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PABLO NERUDA",
+  "adresse": "99 rue de la Boutillerie",
+  "code_postal": "59150",
+  "commune": "WATTRELOS",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12779",
+  "latitude": 50.71,
+  "longitude": 3.24,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 334,
+    "score": 8.0,
+    "nb_classes": 395,
+    "rang_2023": 246,
+    "evolution": -88,
+    "indicateur_cle_variation": "- taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 77.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 77.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 9.0,
+    "va_note_ecrit": 0.4,
+    "taux_acces_6e_3e": 72.0,
+    "nb_candidats": 60
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 12.0,
+    "note_ecrit_brute": 9.5,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 73
+  },
+  "ips": {
+    "valeur": 89.4,
+    "ecart_type": 31.3,
+    "percentile": 38,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q2"
+  },
+  "ips_academie": {
+    "valeur": 89.4,
+    "moyenne_academie": 96.9,
+    "ecart": -7.5,
+    "percentile": 39,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "334e sur 395",
+    "evolution_texte": "en forte baisse de 88 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 334e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 88 places et se retrouve à la 334e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0594392D",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 395,
+      "score": 4.39,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 76,
+      "taux_reu": 76.0,
+      "va_reu": -7.0,
+      "note_ecrit": 6.7,
+      "va_note_ecrit": -2.0,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594392D",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 246,
+      "score": 10.96,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 73,
+      "taux_reu": 93.0,
+      "va_reu": 12.0,
+      "note_ecrit": 9.5,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0594392D",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 334,
+      "score": 8.0,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 60,
+      "taux_reu": 77.0,
+      "va_reu": 5.0,
+      "note_ecrit": 9.0,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 72.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0623918X",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE MARTIN LUTHER KING",
+  "adresse": "725 rue Martin Luther King",
+  "code_postal": "62228",
+  "commune": "CALAIS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11176",
+  "latitude": 50.95,
+  "longitude": 1.89,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 366,
+    "score": 7.03,
+    "nb_classes": 395,
+    "rang_2023": 205,
+    "evolution": -161,
+    "indicateur_cle_variation": "- taux_reu_brut"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 64.0,
+    "va": -3.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 64.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 7.9,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 90
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 89.0,
+    "va_reu": 11.0,
+    "note_ecrit_brute": 9.4,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 99
+  },
+  "ips": {
+    "valeur": 73.9,
+    "ecart_type": 22.1,
+    "percentile": 6,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q1"
+  },
+  "ips_academie": {
+    "valeur": 73.9,
+    "moyenne_academie": 96.9,
+    "ecart": -23.0,
+    "percentile": 6,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "366e sur 395",
+    "evolution_texte": "en forte baisse de 161 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −3 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 366e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 161 places et se retrouve à la 366e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −3 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0623918X",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 364,
+      "score": 7.98,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 95,
+      "taux_reu": 79.0,
+      "va_reu": -2.0,
+      "note_ecrit": 8.0,
+      "va_note_ecrit": -0.6,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623918X",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 205,
+      "score": 11.73,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 99,
+      "taux_reu": 89.0,
+      "va_reu": 11.0,
+      "note_ecrit": 9.4,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623918X",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 366,
+      "score": 7.03,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 90,
+      "taux_reu": 64.0,
+      "va_reu": -3.0,
+      "note_ecrit": 7.9,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

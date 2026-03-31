@@ -1,0 +1,138 @@
+{
+  "uai": "0595360F",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINTE MARIE",
+  "adresse": "31 rue de l'église",
+  "code_postal": "59134",
+  "commune": "BEAUCAMPS LIGNY",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3546",
+  "latitude": 50.6,
+  "longitude": 2.92,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 53,
+    "score": 13.49,
+    "nb_classes": 395,
+    "rang_2023": 16,
+    "evolution": -37,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 99.0,
+    "va": 1.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 99.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 13.9,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 358
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 14.5,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 97.0,
+    "nb_candidats": 360
+  },
+  "ips": {
+    "valeur": 142.5,
+    "ecart_type": 28.0,
+    "percentile": 99,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 142.5,
+    "moyenne_academie": 96.9,
+    "ecart": 45.6,
+    "percentile": 99,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "53e sur 395",
+    "evolution_texte": "en recul de 37 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 53e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 37 places et recule à la 53e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0595360F",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 26,
+      "score": 14.18,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 367,
+      "taux_reu": 100.0,
+      "va_reu": 2.0,
+      "note_ecrit": 13.5,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595360F",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 16,
+      "score": 14.81,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 360,
+      "taux_reu": 100.0,
+      "va_reu": 1.0,
+      "note_ecrit": 14.5,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595360F",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 53,
+      "score": 13.49,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 358,
+      "taux_reu": 99.0,
+      "va_reu": 1.0,
+      "note_ecrit": 13.9,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

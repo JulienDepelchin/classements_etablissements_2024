@@ -1,0 +1,138 @@
+{
+  "uai": "0623016S",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PIERRE BROSSOLETTE",
+  "adresse": "105 Rue Victor Hugo",
+  "code_postal": "62221",
+  "commune": "NOYELLES SOUS LENS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.3335",
+  "latitude": 50.43,
+  "longitude": 2.87,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 219,
+    "score": 10.23,
+    "nb_classes": 395,
+    "rang_2023": 229,
+    "evolution": 10,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 76.0,
+    "va": -4.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 76.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 9.9,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 79
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 78.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 10.2,
+    "va_note_ecrit": 1.1,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 59
+  },
+  "ips": {
+    "valeur": 87.1,
+    "ecart_type": 28.0,
+    "percentile": 33,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 87.1,
+    "moyenne_academie": 96.9,
+    "ecart": -9.8,
+    "percentile": 33,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "219e sur 395",
+    "evolution_texte": "en légère progression de 10 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points.",
+    "contexte_ips": "L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 219e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 219e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points. L’établissement se situe dans un environnement social plutôt défavorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0623016S",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 193,
+      "score": 11.44,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 80,
+      "taux_reu": 89.0,
+      "va_reu": 4.0,
+      "note_ecrit": 9.3,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623016S",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 229,
+      "score": 11.31,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 59,
+      "taux_reu": 78.0,
+      "va_reu": -3.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": 1.1,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623016S",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 219,
+      "score": 10.23,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 79,
+      "taux_reu": 76.0,
+      "va_reu": -4.0,
+      "note_ecrit": 9.9,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

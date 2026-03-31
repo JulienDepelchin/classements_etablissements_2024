@@ -1,0 +1,125 @@
+{
+  "uai": "0622866D",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JACQUES PREVERT",
+  "adresse": "Rue d'Allongeville",
+  "code_postal": "62134",
+  "commune": "HEUCHIN",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.14908",
+  "latitude": 50.47,
+  "longitude": 2.27,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": 178,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 86.0,
+    "va_reu": null,
+    "note_ecrit_brute": 10.0,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 37
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 7.0,
+    "note_ecrit_brute": 10.2,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 53
+  },
+  "ips": {
+    "valeur": 91.5,
+    "ecart_type": 26.1,
+    "percentile": 43,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 91.5,
+    "moyenne_academie": 96.9,
+    "ecart": -5.4,
+    "percentile": 43,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0622866D",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 47,
+      "taux_reu": 89.0,
+      "va_reu": 3.0,
+      "note_ecrit": 9.2,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622866D",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 178,
+      "score": 12.12,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 53,
+      "taux_reu": 94.0,
+      "va_reu": 7.0,
+      "note_ecrit": 10.2,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622866D",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 37,
+      "taux_reu": 86.0,
+      "va_reu": null,
+      "note_ecrit": 10.0,
+      "va_note_ecrit": null,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0622792Y",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE BRACKE DESROUSSEAUX",
+  "adresse": "13 rue Étienne Dolet",
+  "code_postal": "62881",
+  "commune": "VENDIN LE VIEIL",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.9682",
+  "latitude": 50.48,
+  "longitude": 2.86,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 165,
+    "score": 11.16,
+    "nb_classes": 395,
+    "rang_2023": 166,
+    "evolution": 1,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 91.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 91.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 10.5,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 141
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 11.3,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 131
+  },
+  "ips": {
+    "valeur": 93.1,
+    "ecart_type": 28.8,
+    "percentile": 48,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q3"
+  },
+  "ips_academie": {
+    "valeur": 93.1,
+    "moyenne_academie": 96.9,
+    "ecart": -3.8,
+    "percentile": 48,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "165e sur 395",
+    "evolution_texte": "en légère progression de 1 place",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 165e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 165e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0622792Y",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 178,
+      "score": 11.63,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 124,
+      "taux_reu": 89.0,
+      "va_reu": 0.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622792Y",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 166,
+      "score": 12.24,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 131,
+      "taux_reu": 94.0,
+      "va_reu": 2.0,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622792Y",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 165,
+      "score": 11.16,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 141,
+      "taux_reu": 91.0,
+      "va_reu": 5.0,
+      "note_ecrit": 10.5,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

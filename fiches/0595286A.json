@@ -1,0 +1,138 @@
+{
+  "uai": "0595286A",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT PAUL",
+  "adresse": "92 rue Solferino",
+  "code_postal": "59000",
+  "commune": "LILLE",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13786",
+  "latitude": 50.63,
+  "longitude": 3.05,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 35,
+    "score": 14.02,
+    "nb_classes": 395,
+    "rang_2023": 4,
+    "evolution": -31,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 100.0,
+    "va": 1.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 15.2,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 201
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 15.9,
+    "va_note_ecrit": 1.6,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 207
+  },
+  "ips": {
+    "valeur": 154.8,
+    "ecart_type": 23.1,
+    "percentile": 100,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 154.8,
+    "moyenne_academie": 96.9,
+    "ecart": 57.9,
+    "percentile": 100,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "35e sur 395",
+    "evolution_texte": "en recul de 31 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 35e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 31 places et recule à la 35e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0595286A",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 20,
+      "score": 14.93,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 202,
+      "taux_reu": 100.0,
+      "va_reu": 1.0,
+      "note_ecrit": 14.6,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595286A",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 4,
+      "score": 16.08,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 207,
+      "taux_reu": 100.0,
+      "va_reu": 1.0,
+      "note_ecrit": 15.9,
+      "va_note_ecrit": 1.6,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595286A",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 35,
+      "score": 14.02,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 201,
+      "taux_reu": 100.0,
+      "va_reu": 1.0,
+      "note_ecrit": 15.2,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

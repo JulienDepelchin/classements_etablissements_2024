@@ -1,0 +1,138 @@
+{
+  "uai": "0622427B",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE DU PAYS DE L'ALLOEU",
+  "adresse": "16 avenue Henri Puchois",
+  "code_postal": "62840",
+  "commune": "LAVENTIE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15137",
+  "latitude": 50.63,
+  "longitude": 2.77,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 45,
+    "score": 13.72,
+    "nb_classes": 395,
+    "rang_2023": 65,
+    "evolution": 20,
+    "indicateur_cle_variation": "- note_ecrit_brute"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 94.0,
+    "va": 4.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 12.2,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 140
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 97.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 12.3,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 95.0,
+    "nb_candidats": 153
+  },
+  "ips": {
+    "valeur": 114.8,
+    "ecart_type": 33.3,
+    "percentile": 84,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 114.8,
+    "moyenne_academie": 96.9,
+    "ecart": 17.9,
+    "percentile": 84,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "45e sur 395",
+    "evolution_texte": "en hausse de 20 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 45e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 20 places et se classe 45e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +4 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622427B",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 150,
+      "score": 11.96,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 132,
+      "taux_reu": 95.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622427B",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 65,
+      "score": 13.66,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 153,
+      "taux_reu": 97.0,
+      "va_reu": 3.0,
+      "note_ecrit": 12.3,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 95.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622427B",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 45,
+      "score": 13.72,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 140,
+      "taux_reu": 94.0,
+      "va_reu": 4.0,
+      "note_ecrit": 12.2,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

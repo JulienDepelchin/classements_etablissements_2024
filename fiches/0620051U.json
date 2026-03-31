@@ -1,0 +1,138 @@
+{
+  "uai": "0620051U",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ANGELLIER",
+  "adresse": "13 rue Cazin",
+  "code_postal": "62200",
+  "commune": "BOULOGNE SUR MER",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1137",
+  "latitude": 50.72,
+  "longitude": 1.61,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 175,
+    "score": 11.01,
+    "nb_classes": 395,
+    "rang_2023": 181,
+    "evolution": 6,
+    "indicateur_cle_variation": "- taux_reu_brut"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 83.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 83.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 9.7,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 65
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 9.0,
+    "note_ecrit_brute": 10.9,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 81.0,
+    "nb_candidats": 68
+  },
+  "ips": {
+    "valeur": 77.0,
+    "ecart_type": 27.9,
+    "percentile": 10,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q1"
+  },
+  "ips_academie": {
+    "valeur": 77.0,
+    "moyenne_academie": 96.9,
+    "ecart": -19.9,
+    "percentile": 10,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "175e sur 395",
+    "evolution_texte": "en légère progression de 6 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 175e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 175e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0620051U",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 181,
+      "score": 11.6,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 63,
+      "taux_reu": 98.0,
+      "va_reu": 11.0,
+      "note_ecrit": 8.8,
+      "va_note_ecrit": -0.4,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620051U",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 181,
+      "score": 12.07,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 68,
+      "taux_reu": 100.0,
+      "va_reu": 9.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 81.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620051U",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 175,
+      "score": 11.01,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 65,
+      "taux_reu": 83.0,
+      "va_reu": 5.0,
+      "note_ecrit": 9.7,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

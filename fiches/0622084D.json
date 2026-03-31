@@ -1,0 +1,138 @@
+{
+  "uai": "0622084D",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PABLO NERUDA",
+  "adresse": "Route de Brebières",
+  "code_postal": "62490",
+  "commune": "VITRY EN ARTOIS",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.6047",
+  "latitude": 50.33,
+  "longitude": 2.99,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 195,
+    "score": 10.58,
+    "nb_classes": 395,
+    "rang_2023": 74,
+    "evolution": -121,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 87.0,
+    "va": -3.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 87.0,
+    "va_reu": -3.0,
+    "note_ecrit_brute": 10.8,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 119
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 96.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 11.5,
+    "va_note_ecrit": 0.5,
+    "taux_acces_6e_3e": 99.0,
+    "nb_candidats": 136
+  },
+  "ips": {
+    "valeur": 100.6,
+    "ecart_type": 30.7,
+    "percentile": 64,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 100.6,
+    "moyenne_academie": 96.9,
+    "ecart": 3.7,
+    "percentile": 64,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "195e sur 395",
+    "evolution_texte": "en forte baisse de 121 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −3 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 195e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 121 places et se retrouve à la 195e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −3 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622084D",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 162,
+      "score": 11.78,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 139,
+      "taux_reu": 92.0,
+      "va_reu": 1.0,
+      "note_ecrit": 9.8,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 99.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622084D",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 74,
+      "score": 13.54,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 136,
+      "taux_reu": 96.0,
+      "va_reu": 5.0,
+      "note_ecrit": 11.5,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 99.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622084D",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 195,
+      "score": 10.58,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 119,
+      "taux_reu": 87.0,
+      "va_reu": -3.0,
+      "note_ecrit": 10.8,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

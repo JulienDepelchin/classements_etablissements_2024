@@ -1,0 +1,138 @@
+{
+  "uai": "0622579S",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JEAN VILAR",
+  "adresse": "11 rue du Maréchal Joffre",
+  "code_postal": "62143",
+  "commune": "ANGRES",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.11660",
+  "latitude": 50.41,
+  "longitude": 2.75,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 138,
+    "score": 11.67,
+    "nb_classes": 395,
+    "rang_2023": 28,
+    "evolution": -110,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 89.0,
+    "va": -4.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 89.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 12.5,
+    "va_note_ecrit": 0.6,
+    "taux_acces_6e_3e": 91.0,
+    "nb_candidats": 121
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 98.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 12.9,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 98.0,
+    "nb_candidats": 131
+  },
+  "ips": {
+    "valeur": 104.9,
+    "ecart_type": 33.8,
+    "percentile": 71,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q4"
+  },
+  "ips_academie": {
+    "valeur": 104.9,
+    "moyenne_academie": 96.9,
+    "ecart": 8.0,
+    "percentile": 71,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "138e sur 395",
+    "evolution_texte": "en forte baisse de 110 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points.",
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 138e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 110 places et se retrouve à la 138e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −4 points. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0622579S",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 64,
+      "score": 13.31,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 119,
+      "taux_reu": 92.0,
+      "va_reu": 1.0,
+      "note_ecrit": 10.8,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622579S",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 28,
+      "score": 14.5,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 131,
+      "taux_reu": 98.0,
+      "va_reu": 3.0,
+      "note_ecrit": 12.9,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0622579S",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 138,
+      "score": 11.67,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 121,
+      "taux_reu": 89.0,
+      "va_reu": -4.0,
+      "note_ecrit": 12.5,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0593149C",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE CHARLES DE FOUCAULD",
+  "adresse": "93 chaussée de Watt",
+  "code_postal": "59200",
+  "commune": "TOURCOING",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.4301",
+  "latitude": 50.73,
+  "longitude": 3.13,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 200,
+    "score": 10.53,
+    "nb_classes": 395,
+    "rang_2023": 203,
+    "evolution": 3,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 92.0,
+    "va": 8.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 92.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 10.3,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 83.0,
+    "nb_candidats": 95
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 94.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 10.7,
+    "va_note_ecrit": 0.4,
+    "taux_acces_6e_3e": 86.0,
+    "nb_candidats": 103
+  },
+  "ips": {
+    "valeur": 97.0,
+    "ecart_type": 32.7,
+    "percentile": 57,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 97.0,
+    "moyenne_academie": 96.9,
+    "ecart": 0.1,
+    "percentile": 58,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "stable",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "200e sur 395",
+    "evolution_texte": "en légère progression de 3 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège se maintient à la 200e sur 395.",
+    "phrase_longue": "En 2024, ce collège se classe 200e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0593149C",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 219,
+      "score": 11.15,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 91,
+      "taux_reu": 99.0,
+      "va_reu": 10.0,
+      "note_ecrit": 9.5,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 80.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593149C",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 203,
+      "score": 11.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 103,
+      "taux_reu": 94.0,
+      "va_reu": 5.0,
+      "note_ecrit": 10.7,
+      "va_note_ecrit": 0.4,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593149C",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 200,
+      "score": 10.53,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 95,
+      "taux_reu": 92.0,
+      "va_reu": 8.0,
+      "note_ecrit": 10.3,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

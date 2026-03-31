@@ -1,0 +1,125 @@
+{
+  "uai": "0593103C",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SACRE COEUR",
+  "adresse": "23 rue du Collège",
+  "code_postal": "59940",
+  "commune": "ESTAIRES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.1788",
+  "latitude": 50.65,
+  "longitude": 2.72,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": null,
+    "note_ecrit_brute": 12.1,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 35
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 9.0,
+    "note_ecrit_brute": 10.4,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 68.0,
+    "nb_candidats": 31
+  },
+  "ips": {
+    "valeur": 101.5,
+    "ecart_type": 28.1,
+    "percentile": 66,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 101.5,
+    "moyenne_academie": 96.9,
+    "ecart": 4.6,
+    "percentile": 66,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0593103C",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 41,
+      "taux_reu": 98.0,
+      "va_reu": 6.0,
+      "note_ecrit": 9.1,
+      "va_note_ecrit": -1.0,
+      "taux_acces": 59.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593103C",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 31,
+      "taux_reu": 100.0,
+      "va_reu": 9.0,
+      "note_ecrit": 10.4,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 68.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593103C",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 35,
+      "taux_reu": 100.0,
+      "va_reu": null,
+      "note_ecrit": 12.1,
+      "va_note_ecrit": null,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

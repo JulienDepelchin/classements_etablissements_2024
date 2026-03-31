@@ -1,0 +1,138 @@
+{
+  "uai": "0592933T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE SAINT WINOC",
+  "adresse": "20 rue du Collège",
+  "code_postal": "59380",
+  "commune": "BERGUES",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5811",
+  "latitude": 50.97,
+  "longitude": 2.43,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 49,
+    "score": 13.62,
+    "nb_classes": 395,
+    "rang_2023": 77,
+    "evolution": 28,
+    "indicateur_cle_variation": "+ va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 100.0,
+    "va": 8.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 12.2,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 120
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 4.0,
+    "note_ecrit_brute": 12.5,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 105
+  },
+  "ips": {
+    "valeur": 124.1,
+    "ecart_type": 30.9,
+    "percentile": 92,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 124.1,
+    "moyenne_academie": 96.9,
+    "ecart": 27.2,
+    "percentile": 92,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "49e sur 395",
+    "evolution_texte": "en hausse de 28 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 49e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 28 places et se classe 49e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +8 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0592933T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 93,
+      "score": 12.81,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 84,
+      "taux_reu": 100.0,
+      "va_reu": 6.0,
+      "note_ecrit": 11.2,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592933T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 77,
+      "score": 13.42,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 105,
+      "taux_reu": 100.0,
+      "va_reu": 4.0,
+      "note_ecrit": 12.5,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0592933T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 49,
+      "score": 13.62,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 120,
+      "taux_reu": 100.0,
+      "va_reu": 8.0,
+      "note_ecrit": 12.2,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

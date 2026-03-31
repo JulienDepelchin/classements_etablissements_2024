@@ -1,0 +1,138 @@
+{
+  "uai": "0590211J",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE ALBERT CAMUS",
+  "adresse": "1 rue Pierre Vienot",
+  "code_postal": "59239",
+  "commune": "THUMERIES",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13890",
+  "latitude": 50.47,
+  "longitude": 3.07,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 119,
+    "score": 12.07,
+    "nb_classes": 395,
+    "rang_2023": 169,
+    "evolution": 50,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "VA note à l’écrit",
+    "nom_court": "note à l’écrit",
+    "valeur": 12.0,
+    "va": 0.2,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 0.0,
+    "note_ecrit_brute": 12.0,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 97.0,
+    "nb_candidats": 111
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 11.7,
+    "va_note_ecrit": 0.0,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 150
+  },
+  "ips": {
+    "valeur": 116.7,
+    "ecart_type": 35.4,
+    "percentile": 86,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 116.7,
+    "moyenne_academie": 96.9,
+    "ecart": 19.8,
+    "percentile": 86,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "119e sur 395",
+    "evolution_texte": "en forte hausse de 50 places",
+    "indicateur_cle_texte": null,
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 119e sur 395 — en forte hausse de 50 places.",
+    "phrase_longue": "En 2024, ce collège gagne 50 places et se classe 119e sur 395. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0590211J",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 201,
+      "score": 11.35,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 133,
+      "taux_reu": 95.0,
+      "va_reu": 0.0,
+      "note_ecrit": 11.2,
+      "va_note_ecrit": -0.8,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590211J",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 169,
+      "score": 12.22,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 150,
+      "taux_reu": 95.0,
+      "va_reu": 1.0,
+      "note_ecrit": 11.7,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590211J",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 119,
+      "score": 12.07,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 111,
+      "taux_reu": 93.0,
+      "va_reu": 0.0,
+      "note_ecrit": 12.0,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 97.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

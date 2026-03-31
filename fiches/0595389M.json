@@ -1,0 +1,138 @@
+{
+  "uai": "0595389M",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE NOTRE-DAME DES DUNES",
+  "adresse": "60 rue du Sud",
+  "code_postal": "59140",
+  "commune": "DUNKERQUE",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.2577",
+  "latitude": 51.03,
+  "longitude": 2.38,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 192,
+    "score": 10.65,
+    "nb_classes": 395,
+    "rang_2023": 121,
+    "evolution": -71,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 99.0,
+    "va": 5.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 99.0,
+    "va_reu": 5.0,
+    "note_ecrit_brute": 12.0,
+    "va_note_ecrit": -0.3,
+    "taux_acces_6e_3e": 84.0,
+    "nb_candidats": 151
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 13.0,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 133
+  },
+  "ips": {
+    "valeur": 127.5,
+    "ecart_type": 36.0,
+    "percentile": 94,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 127.5,
+    "moyenne_academie": 96.9,
+    "ecart": 30.6,
+    "percentile": 94,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "192e sur 395",
+    "evolution_texte": "en forte baisse de 71 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège décroche au classement et se retrouve à la 192e sur 395.",
+    "phrase_longue": "En 2024, ce collège chute de 71 places et se retrouve à la 192e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +5 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0595389M",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 97,
+      "score": 12.77,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 133,
+      "taux_reu": 99.0,
+      "va_reu": 3.0,
+      "note_ecrit": 12.4,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595389M",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 121,
+      "score": 12.79,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 133,
+      "taux_reu": 100.0,
+      "va_reu": 3.0,
+      "note_ecrit": 13.0,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0595389M",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 192,
+      "score": 10.65,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 151,
+      "taux_reu": 99.0,
+      "va_reu": 5.0,
+      "note_ecrit": 12.0,
+      "va_note_ecrit": -0.3,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

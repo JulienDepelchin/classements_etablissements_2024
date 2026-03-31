@@ -1,0 +1,138 @@
+{
+  "uai": "0593991T",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE THEODORE MONOD",
+  "adresse": "37 bis rue Sadi Carnot",
+  "code_postal": "59810",
+  "commune": "LESQUIN",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.13065",
+  "latitude": 50.59,
+  "longitude": 3.11,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 180,
+    "score": 10.86,
+    "nb_classes": 395,
+    "rang_2023": 148,
+    "evolution": -32,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 93.0,
+    "va": 1.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 11.4,
+    "va_note_ecrit": -0.2,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 117
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 95.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 11.9,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 99.0,
+    "nb_candidats": 128
+  },
+  "ips": {
+    "valeur": 123.8,
+    "ecart_type": 36.7,
+    "percentile": 91,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 123.8,
+    "moyenne_academie": 96.9,
+    "ecart": 26.9,
+    "percentile": 91,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "baisse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "recul marqué"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "180e sur 395",
+    "evolution_texte": "en recul de 32 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège recule au classement, à la 180e sur 395.",
+    "phrase_longue": "En 2024, ce collège perd 32 places et recule à la 180e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +1 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593991T",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 69,
+      "score": 13.23,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 135,
+      "taux_reu": 97.0,
+      "va_reu": 3.0,
+      "note_ecrit": 11.4,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 98.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593991T",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 148,
+      "score": 12.41,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 128,
+      "taux_reu": 95.0,
+      "va_reu": 1.0,
+      "note_ecrit": 11.9,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 99.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593991T",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 180,
+      "score": 10.86,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 117,
+      "taux_reu": 93.0,
+      "va_reu": 1.0,
+      "note_ecrit": 11.4,
+      "va_note_ecrit": -0.2,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "uai": "0593254S",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE JULES VERNE",
+  "adresse": "Boulevard Pierre Corneille",
+  "code_postal": "59601",
+  "commune": "MAUBEUGE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.2013",
+  "latitude": 50.29,
+  "longitude": 3.96,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 382,
+    "score": 5.63,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 52.0,
+    "va": -14.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 52.0,
+    "va_reu": -14.0,
+    "note_ecrit_brute": 8.3,
+    "va_note_ecrit": 0.3,
+    "taux_acces_6e_3e": 83.0,
+    "nb_candidats": 56
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 63.0,
+    "va_reu": -15.0,
+    "note_ecrit_brute": 9.1,
+    "va_note_ecrit": 0.1,
+    "taux_acces_6e_3e": 85.0,
+    "nb_candidats": 49
+  },
+  "ips": {
+    "valeur": 67.6,
+    "ecart_type": 22.9,
+    "percentile": 2,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q1"
+  },
+  "ips_academie": {
+    "valeur": 67.6,
+    "moyenne_academie": 96.9,
+    "ecart": -29.3,
+    "percentile": 2,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "382e sur 395",
+    "evolution_texte": "nouvel entrant dans le classement",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −14 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "Nouvel entrant au classement 2024, ce collège se positionne d’emblée à la 382e sur 395.",
+    "phrase_longue": "Entrant pour la première fois au classement en 2024, ce collège se positionne 382e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −14 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0593254S",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 383,
+      "score": 7.1,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 57,
+      "taux_reu": 54.0,
+      "va_reu": -13.0,
+      "note_ecrit": 7.8,
+      "va_note_ecrit": 0.6,
+      "taux_acces": 87.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593254S",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 49,
+      "taux_reu": 63.0,
+      "va_reu": -15.0,
+      "note_ecrit": 9.1,
+      "va_note_ecrit": 0.1,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593254S",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 382,
+      "score": 5.63,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 56,
+      "taux_reu": 52.0,
+      "va_reu": -14.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 83.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

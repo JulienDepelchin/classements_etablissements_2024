@@ -1,0 +1,138 @@
+{
+  "uai": "0623314R",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE SIMONE SIGNORET",
+  "adresse": "172 rue Charles Marlard",
+  "code_postal": "62700",
+  "commune": "BRUAY LA BUISSIERE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.15033",
+  "latitude": 50.48,
+  "longitude": 2.55,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 176,
+    "score": 10.95,
+    "nb_classes": 395,
+    "rang_2023": 385,
+    "evolution": 209,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 83.0,
+    "va": 12.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 83.0,
+    "va_reu": 12.0,
+    "note_ecrit_brute": 8.3,
+    "va_note_ecrit": 0.2,
+    "taux_acces_6e_3e": 96.0,
+    "nb_candidats": 82
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 76.0,
+    "va_reu": -4.0,
+    "note_ecrit_brute": 8.3,
+    "va_note_ecrit": -0.8,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 109
+  },
+  "ips": {
+    "valeur": 77.6,
+    "ecart_type": 27.9,
+    "percentile": 12,
+    "quintile": 1,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q1"
+  },
+  "ips_academie": {
+    "valeur": 77.6,
+    "moyenne_academie": 96.9,
+    "ecart": -19.3,
+    "percentile": 12,
+    "quintile": 1,
+    "position": "très défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "très défavorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": true
+  },
+  "narration": {
+    "rang_texte": "176e sur 395",
+    "evolution_texte": "en forte hausse de 209 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +12 points.",
+    "contexte_ips": "L’établissement accueille un public parmi les plus défavorisés de l’académie.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 176e sur 395 — en forte hausse de 209 places.",
+    "phrase_longue": "En 2024, ce collège gagne 209 places et se classe 176e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +12 points. L’établissement accueille un public parmi les plus défavorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0623314R",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 167,
+      "score": 11.74,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 93,
+      "taux_reu": 86.0,
+      "va_reu": 5.0,
+      "note_ecrit": 9.2,
+      "va_note_ecrit": 0.5,
+      "taux_acces": 91.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623314R",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 385,
+      "score": 7.68,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 109,
+      "taux_reu": 76.0,
+      "va_reu": -4.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": -0.8,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623314R",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 176,
+      "score": 10.95,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 82,
+      "taux_reu": 83.0,
+      "va_reu": 12.0,
+      "note_ecrit": 8.3,
+      "va_note_ecrit": 0.2,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

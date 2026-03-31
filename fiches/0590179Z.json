@@ -1,0 +1,138 @@
+{
+  "uai": "0590179Z",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PAUL MACHY",
+  "adresse": "Rue Jules Guesde",
+  "code_postal": "59941",
+  "commune": "DUNKERQUE",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.2171",
+  "latitude": 51.04,
+  "longitude": 2.41,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 97,
+    "score": 12.56,
+    "nb_classes": 395,
+    "rang_2023": 114,
+    "evolution": 17,
+    "indicateur_cle_variation": "- va_note_ecrit"
+  },
+  "indicateur_cle": {
+    "nom": "VA note à l’écrit",
+    "nom_court": "note à l’écrit",
+    "valeur": 12.1,
+    "va": 0.8,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 90.0,
+    "va_reu": 0.0,
+    "note_ecrit_brute": 12.1,
+    "va_note_ecrit": 0.8,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 87
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 93.0,
+    "va_reu": 2.0,
+    "note_ecrit_brute": 11.9,
+    "va_note_ecrit": 0.7,
+    "taux_acces_6e_3e": 92.0,
+    "nb_candidats": 105
+  },
+  "ips": {
+    "valeur": 104.8,
+    "ecart_type": 37.3,
+    "percentile": 70,
+    "quintile": 4,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q4"
+  },
+  "ips_academie": {
+    "valeur": 104.8,
+    "moyenne_academie": 96.9,
+    "ecart": 7.9,
+    "percentile": 70,
+    "quintile": 4,
+    "position": "favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "97e sur 395",
+    "evolution_texte": "en hausse de 17 places",
+    "indicateur_cle_texte": null,
+    "contexte_ips": "L’établissement accueille un public plutôt favorisé à l’échelle de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 97e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 17 places et se classe 97e sur 395. L’établissement accueille un public plutôt favorisé à l’échelle de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0590179Z",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 236,
+      "score": 10.89,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 98,
+      "taux_reu": 89.0,
+      "va_reu": -2.0,
+      "note_ecrit": 10.9,
+      "va_note_ecrit": 0.3,
+      "taux_acces": 84.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590179Z",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 114,
+      "score": 12.85,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 105,
+      "taux_reu": 93.0,
+      "va_reu": 2.0,
+      "note_ecrit": 11.9,
+      "va_note_ecrit": 0.7,
+      "taux_acces": 92.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590179Z",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 97,
+      "score": 12.56,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 87,
+      "taux_reu": 90.0,
+      "va_reu": 0.0,
+      "note_ecrit": 12.1,
+      "va_note_ecrit": 0.8,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

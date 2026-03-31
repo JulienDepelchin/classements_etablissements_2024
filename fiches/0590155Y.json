@@ -1,0 +1,138 @@
+{
+  "uai": "0590155Y",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE DESCARTES",
+  "adresse": "2 rue Lavoisier",
+  "code_postal": "59370",
+  "commune": "MONS EN BAROEUL",
+  "departement": "NORD",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5323",
+  "latitude": 50.64,
+  "longitude": 3.11,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 224,
+    "score": 10.1,
+    "nb_classes": 395,
+    "rang_2023": 267,
+    "evolution": 43,
+    "indicateur_cle_variation": "+ taux_acces_6e_3e"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 83.0,
+    "va": -1.0,
+    "type": "negatif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 83.0,
+    "va_reu": -1.0,
+    "note_ecrit_brute": 10.8,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 96
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 91.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 11.4,
+    "va_note_ecrit": -0.1,
+    "taux_acces_6e_3e": 86.0,
+    "nb_candidats": 98
+  },
+  "ips": {
+    "valeur": 98.1,
+    "ecart_type": 40.0,
+    "percentile": 59,
+    "quintile": 3,
+    "bucket": "moyen",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q3"
+  },
+  "ips_academie": {
+    "valeur": 98.1,
+    "moyenne_academie": 96.9,
+    "ecart": 1.2,
+    "percentile": 60,
+    "quintile": 3,
+    "position": "dans la moyenne"
+  },
+  "labels_editoriaux": {
+    "dynamique": "forte hausse",
+    "contexte_social": "dans la moyenne",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "progression spectaculaire"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "224e sur 395",
+    "evolution_texte": "en forte hausse de 43 places",
+    "indicateur_cle_texte": "Point de vigilance principal : réussite, avec une valeur ajoutée de −1 points.",
+    "contexte_ips": "Le profil social de l’établissement se situe dans la moyenne académique.",
+    "phrase_courte": "En 2024, ce collège bondit au classement et atteint la 224e sur 395 — en forte hausse de 43 places.",
+    "phrase_longue": "En 2024, ce collège gagne 43 places et se classe 224e sur 395. Point de vigilance principal : réussite, avec une valeur ajoutée de −1 points. Le profil social de l’établissement se situe dans la moyenne académique."
+  },
+  "series": [
+    {
+      "uai": "0590155Y",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 341,
+      "score": 8.72,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 78,
+      "taux_reu": 76.0,
+      "va_reu": -8.0,
+      "note_ecrit": 9.6,
+      "va_note_ecrit": 0.0,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590155Y",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 267,
+      "score": 10.74,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 98,
+      "taux_reu": 91.0,
+      "va_reu": 1.0,
+      "note_ecrit": 11.4,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 86.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0590155Y",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 224,
+      "score": 10.1,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 96,
+      "taux_reu": 83.0,
+      "va_reu": -1.0,
+      "note_ecrit": 10.8,
+      "va_note_ecrit": -0.1,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

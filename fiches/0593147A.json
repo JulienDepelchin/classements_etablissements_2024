@@ -1,0 +1,125 @@
+{
+  "uai": "0593147A",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE NOTRE-DAME DE LOURDES",
+  "adresse": "6 rue Rémy Goetgheluck",
+  "code_postal": "59114",
+  "commune": "STEENVOORDE",
+  "departement": "NORD",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.12785",
+  "latitude": 50.81,
+  "longitude": 2.58,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 94.0,
+    "va_reu": null,
+    "note_ecrit_brute": 12.6,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 93.0,
+    "nb_candidats": 35
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 6.0,
+    "note_ecrit_brute": 12.9,
+    "va_note_ecrit": 1.4,
+    "taux_acces_6e_3e": 80.0,
+    "nb_candidats": 37
+  },
+  "ips": {
+    "valeur": 113.4,
+    "ecart_type": 31.2,
+    "percentile": 83,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 101.7,
+    "peer_group": "college_NORD_Q5"
+  },
+  "ips_academie": {
+    "valeur": 113.4,
+    "moyenne_academie": 96.9,
+    "ecart": 16.5,
+    "percentile": 83,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "très favorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0593147A",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 33,
+      "taux_reu": 97.0,
+      "va_reu": null,
+      "note_ecrit": 12.1,
+      "va_note_ecrit": null,
+      "taux_acces": 85.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593147A",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 37,
+      "taux_reu": 100.0,
+      "va_reu": 6.0,
+      "note_ecrit": 12.9,
+      "va_note_ecrit": 1.4,
+      "taux_acces": 80.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0593147A",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 35,
+      "taux_reu": 94.0,
+      "va_reu": null,
+      "note_ecrit": 12.6,
+      "va_note_ecrit": null,
+      "taux_acces": 93.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

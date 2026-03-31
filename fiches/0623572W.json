@@ -1,0 +1,138 @@
+{
+  "uai": "0623572W",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE PRIVE LA MALASSISE",
+  "adresse": "Pensionnat Saint-Joseph",
+  "code_postal": "62968",
+  "commune": "LONGUENESSE",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PR",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.6409",
+  "latitude": 50.74,
+  "longitude": 2.24,
+  "classement_2024": {
+    "eligible": true,
+    "raison_exclusion": null,
+    "rang": 28,
+    "score": 14.13,
+    "nb_classes": 395,
+    "rang_2023": 48,
+    "evolution": 20,
+    "indicateur_cle_variation": "+ va_reu"
+  },
+  "indicateur_cle": {
+    "nom": "Valeur ajoutée réussite",
+    "nom_court": "réussite",
+    "valeur": 100.0,
+    "va": 3.0,
+    "type": "positif"
+  },
+  "indicateurs_2024": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 3.0,
+    "note_ecrit_brute": 14.3,
+    "va_note_ecrit": 1.0,
+    "taux_acces_6e_3e": 90.0,
+    "nb_candidats": 113
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 1.0,
+    "note_ecrit_brute": 14.1,
+    "va_note_ecrit": 0.9,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 124
+  },
+  "ips": {
+    "valeur": 133.2,
+    "ecart_type": 31.3,
+    "percentile": 96,
+    "quintile": 5,
+    "bucket": "élevé",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q5"
+  },
+  "ips_academie": {
+    "valeur": 133.2,
+    "moyenne_academie": 96.9,
+    "ecart": 36.3,
+    "percentile": 96,
+    "quintile": 5,
+    "position": "très favorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "hausse",
+    "contexte_social": "très favorisé",
+    "lecture_performance": "performance attendue",
+    "profil_histoire": "bonne dynamique"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": {
+    "rang_texte": "28e sur 395",
+    "evolution_texte": "en hausse de 20 places",
+    "indicateur_cle_texte": "Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points.",
+    "contexte_ips": "L’établissement fait partie des établissements les plus favorisés de l’académie.",
+    "phrase_courte": "Ce collège poursuit sa progression en 2024 et atteint la 28e sur 395.",
+    "phrase_longue": "En 2024, ce collège progresse de 20 places et se classe 28e sur 395. Un indicateur ressort particulièrement : réussite, avec une valeur ajoutée de +3 points. L’établissement fait partie des établissements les plus favorisés de l’académie."
+  },
+  "series": [
+    {
+      "uai": "0623572W",
+      "type_etablissement_app": "college",
+      "annee": 2022,
+      "rang": 14,
+      "score": 15.3,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 117,
+      "taux_reu": 100.0,
+      "va_reu": 2.0,
+      "note_ecrit": 13.6,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 96.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623572W",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": 48,
+      "score": 14.02,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 124,
+      "taux_reu": 100.0,
+      "va_reu": 1.0,
+      "note_ecrit": 14.1,
+      "va_note_ecrit": 0.9,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0623572W",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": 28,
+      "score": 14.13,
+      "eligible": true,
+      "raison_exclusion": null,
+      "nb_candidats": 113,
+      "taux_reu": 100.0,
+      "va_reu": 3.0,
+      "note_ecrit": 14.3,
+      "va_note_ecrit": 1.0,
+      "taux_acces": 90.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}

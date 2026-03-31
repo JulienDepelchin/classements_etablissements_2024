@@ -1,0 +1,107 @@
+{
+  "uai": "0620025R",
+  "type_etablissement_app": "college",
+  "type_label": "Collège",
+  "nom": "COLLEGE DU VAL D'AUTHIE",
+  "adresse": "3 rue de Lannoy",
+  "code_postal": "62390",
+  "commune": "AUXI LE CHATEAU",
+  "departement": "PAS-DE-CALAIS",
+  "secteur": "PU",
+  "fiche_onisep": "https://www.onisep.fr/http/redirection/etablissement/slug/ENS.5657",
+  "latitude": 50.23,
+  "longitude": 2.11,
+  "classement_2024": {
+    "eligible": false,
+    "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+    "rang": null,
+    "score": null,
+    "nb_classes": 395,
+    "rang_2023": null,
+    "evolution": null,
+    "indicateur_cle_variation": null
+  },
+  "indicateur_cle": null,
+  "indicateurs_2024": {
+    "taux_reu_brut": 94.0,
+    "va_reu": null,
+    "note_ecrit_brute": 11.3,
+    "va_note_ecrit": null,
+    "taux_acces_6e_3e": 88.0,
+    "nb_candidats": 36
+  },
+  "indicateurs_2023": {
+    "taux_reu_brut": 100.0,
+    "va_reu": 8.0,
+    "note_ecrit_brute": 13.2,
+    "va_note_ecrit": 2.0,
+    "taux_acces_6e_3e": 94.0,
+    "nb_candidats": 35
+  },
+  "ips": {
+    "valeur": 87.0,
+    "ecart_type": 28.0,
+    "percentile": 32,
+    "quintile": 2,
+    "bucket": "faible",
+    "ref_national": 106.1,
+    "ref_departemental": 95.5,
+    "peer_group": "college_PAS-DE-CALAIS_Q2"
+  },
+  "ips_academie": {
+    "valeur": 87.0,
+    "moyenne_academie": 96.9,
+    "ecart": -9.9,
+    "percentile": 32,
+    "quintile": 2,
+    "position": "défavorisé"
+  },
+  "labels_editoriaux": {
+    "dynamique": "nouveau",
+    "contexte_social": "défavorisé",
+    "lecture_performance": null,
+    "profil_histoire": "trajectoire stable"
+  },
+  "contexte": {
+    "education_prioritaire": false
+  },
+  "narration": null,
+  "series": [
+    {
+      "uai": "0620025R",
+      "type_etablissement_app": "college",
+      "annee": 2023,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant",
+      "nb_candidats": 35,
+      "taux_reu": 100.0,
+      "va_reu": 8.0,
+      "note_ecrit": 13.2,
+      "va_note_ecrit": 2.0,
+      "taux_acces": 94.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    },
+    {
+      "uai": "0620025R",
+      "type_etablissement_app": "college",
+      "annee": 2024,
+      "rang": null,
+      "score": null,
+      "eligible": false,
+      "raison_exclusion": "Effectif insuffisant + donnees manquantes",
+      "nb_candidats": 36,
+      "taux_reu": 94.0,
+      "va_reu": null,
+      "note_ecrit": 11.3,
+      "va_note_ecrit": null,
+      "taux_acces": 88.0,
+      "va_acces": null,
+      "taux_men": null,
+      "va_men": null
+    }
+  ]
+}
